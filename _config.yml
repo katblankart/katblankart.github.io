@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Katharina Blankart / Assistant Professor in Empirical Health Economics"
+title                    : "Katharina Blankart"
 title_separator          : "-"
 name                     : &name "Katharina Blankart"
-description              : &description "personal description"
+description              : &description "Assistant Professor in Empirical Health Economics"
 url                      : https://katblankart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katblankart/katblankart.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact information"
+  name             : "Prof. Dr. Katharina Blankart, MBR"
   avatar           : "profile.png"
   bio              : "Business Economist, Health & Innovation"
   location         : "Essen, Germany"
-  employer         : "Unviersity of Duisburg-Essen, Faculty of Economics and Business Administration"
+  employer         : "[Unviersity of Duisburg-Essen](https://www.hcm.wiwi.uni-due.de/en/)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=UMyfcGMAAAAJ&hl=de"
   email            : "katharina.blankart@uni-due.de"
