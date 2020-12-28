@@ -1,4 +1,8 @@
-# Publications
+---
+title: "Publications"
+collection: publications
+permalink: /publications
+---
 
 ## Peer-reviewed journal articles
 
