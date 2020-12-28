@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Katharina Blankart - personal website"
+title: "Katharina Blankart"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,6 +19,9 @@ Research fields
 -------
 - Primary: Economics and management of pharmaceutical care
 - Secondary: Health and innovation
+
+
+
 
 
 
