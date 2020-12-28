@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prof. Dr. Katharina Blankart, MBR"
+title: "Katharina Blankart - personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
