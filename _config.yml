@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Katharina Blankart"
 title_separator          : "-"
 name                     : &name "Katharina Blankart"
-description              : &description "Assistant Professor in Empirical Health Economics"
+description              : &description "Home"
 url                      : https://katblankart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katblankart/katblankart.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Prof. Dr. Katharina Blankart, MBR"
-  avatar           : "profile.png"
+  avatar           : "images/Prof. Dr. Blankart, Katharina.jpg"
   bio              : "Business Economist, Health & Innovation"
   location         : "Essen, Germany"
   employer         : "[Unviersity of Duisburg-Essen](https://www.hcm.wiwi.uni-due.de/en/)"
