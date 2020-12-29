@@ -1,4 +1,9 @@
-# Work in progress
+---
+title: "Work in progress"
+collection: workinprogress
+permalink: /workinprogress
+---
+
 
 ## Health and innovation
 
@@ -12,7 +17,6 @@
 
 **"Seeking system certification, innovation, or both? – Examining the relationships towards high quality care in specialized cancer care"**, with Tim Brand and Eva Goetjes
 
-**''**, with Melina Kurte
 
 
 
