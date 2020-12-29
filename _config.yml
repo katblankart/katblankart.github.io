@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/katharina-blankart-33a95721/"
+  linkedin         : "katharina-blankart-33a95721"
   orcid            : "https://orcid.org/0000-0001-9831-1787"
   pinterest        :
   soundcloud       :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -230,7 +233,7 @@ defaults:
   # _workinprogress
   - scope:
       path: ""
-      type: portfolio
+      type: workinprogress
     values:
       layout: single
       author_profile: true
@@ -242,6 +245,15 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+	  
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
       author_profile: true
       share: true
 
