@@ -15,6 +15,8 @@ permalink: /resources
 
 - [Causal Inference: The Mixtape](https://scunning.com/mixtape.html), by Scott Cunningham
 
+- [Causal Graphs](http://www.nickchk.com/causalgraphs.html) explained by Nick Huntington Klein helps to gain an intuitive understanding of identifying causal effects from non-experimental data, [more resources provided](http://www.nickchk.com/causalitybook.html)
+
 
 
 ## Social science research methods
