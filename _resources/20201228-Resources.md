@@ -13,7 +13,7 @@
 
 
 
-## Econometrics methods
+## Social science research methods
 
 - [Health Services Research methods corner](https://www.hsr.org/methods-corner-article-collection) provides many resources for program evaluation, econometrics and qualitative research
 
