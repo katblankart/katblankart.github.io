@@ -192,6 +192,7 @@ collections:
     permalink: /:collection/:path/
 
 
+
 # Defaults
 defaults:
   # _posts
