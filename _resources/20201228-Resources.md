@@ -1,4 +1,8 @@
-# Resources
+---
+title: "Resources"
+collection: resources
+permalink: /resources
+---
 
 ## Causality and Program Evaluation
 
