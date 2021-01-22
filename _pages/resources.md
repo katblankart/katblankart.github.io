@@ -11,8 +11,6 @@ author_profile: true
 
 - [Differences-in-Difference design, Health Care Policy Science Lab](https://diff.healthpolicydatascience.org/)
 
-- [Methods Articles Health Care Policy Science Lab](http://healthpolicydatascience.org/methods-seminar)
-
 - [Hernán MA, Robins JM. Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 - [Causal Inference: The Mixtape](https://scunning.com/mixtape.html), by Scott Cunningham
@@ -21,7 +19,9 @@ author_profile: true
 
 
 
-## Social science research methods
+## Health services and health policy related research methods
+
+- [Methods Articles Health Care Policy Science Lab](http://healthpolicydatascience.org/methods-seminar)
 
 - [Health Services Research methods corner](https://www.hsr.org/methods-corner-article-collection) provides many resources for program evaluation, econometrics and qualitative research
 
