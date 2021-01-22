@@ -49,7 +49,7 @@ These data bases help to identify active ingredients by different classification
 
 - [WHO ATC Index](https://www.whocc.no/atc_ddd_index/) helps to find active pharmaceutical ingredients by the ATC classification
 
-- [German ATC Index]()
+- [German ATC Index](https://www.dimdi.de/dynamic/en/drugs/atc-classification/index.html)
 
 - [Drugbank.com](https://www.drugbank.com/) allows finding and classifying drugs by a large variety of criteria including the ATC classification, marketing authorization data for the United States (FDA), Canada and the European Union (EMA), a public use file is available for download if you register your research project.
 
@@ -61,28 +61,26 @@ These data bases help to identify active ingredients by different classification
 
 - German pharmaceutical reference databases are behind paywalls, or for scientific research use that requires registration of a research project
 
-	- WIDO GKV Arzneimittelindex
-	- ABDATA Pharma Daten Service
+	- [WIDO GKV Arzneimittelindex / German Drug Index](https://www.gbe-bund.de/gbe/ergebnisse.prc_tab?fid=8325&suchstring=arzneiverordnungsreport&query_id=&sprache=E&fund_typ=DQM&methode=&vt=&verwandte=1&page_ret=0&seite=1&p_sprachkz=E&p_uid=&p_lfd_nr=&p_news=&p_aid=&hlp_nr=&p_janein=)
+	- [ABDATA Pharma Daten Service](https://abdata.de/)
 
 ### Drug shortages
 
 - [Drug shortages in Switzerland provided by Enea Martinelli](drugshortage.ch)
 
-### Marketing Authorization Data
-
-- Drugs@FDA
-- EMA
 
 ### HTA and value based decision-making
 
 - Early assessments of health benefit based on AMNOG ([Arzneimittelmarktneuordnungsgesetz](https://www.g-ba.de/bewertungsverfahren/nutzenbewertung/)) in Germany
 
-    - Comprehensive data of all benefit assessments is [provided in XML format from GBA](https://www.g-ba.de/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/ais/)
-	- [As part of a project funded by the German Research Foundation, I provide data from the first years that AMNOG was in effect]()
+    - Comprehensive data of benefit assessments is [provided in XML format from GBA](https://www.g-ba.de/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/ais/), currently includes decisions starting from 2020, but will be updated steadily to cover all assessments starting from 2011.
+	- [As part of a project funded by the German Research Foundation, I provide data from the first years that AMNOG was in effect](https://www.hcm.wiwi.uni-due.de/en/research-projects/early-benefit-assessment-of-innovative-pharmaceuticals-according-to-amnog-in-germany-empirical-analysis-of-the-decision-making-process/)
+	- [DAK AMNOG Report 2020](https://www.dak.de/dak/bundesthemen/dak-amnog-report-2020-2331046.html#/), annual report of AMNOG decisions
+	- [Innovationsreport Techniker Krankenkasse](https://www.tk.de/leistungserbringer/personengruppen/aerzte/innovationsreport-2059108) is an annual report about the quality of pharmaceutical care
 
 - - -
 
-### Pharmaceutical market in Germany - all resources in *German only*
+### Pharmaceutical market in Germany - all resources are in *German only*
 
 - [Zi Trendbericht provides developments of prescription pharmaceuticals in Germany](https://www.zi.de/projekte/rx-trendbericht)
 
@@ -92,7 +90,13 @@ These data bases help to identify active ingredients by different classification
 
 - [WIP provides a report for pharmaceutical care in the privately insured](http://www.wip-pkv.de/forschungsbereiche/detail/arzneimittelversorgung-von-privatversicherten-2020-zahlen-analysen-gkv-pkv-vergleich.html)
 
+- [Reference Prices - Festbeträge](https://www.dimdi.de/dynamic/de/arzneimittel/festbetraege-und-zuzahlungen/arzneimittel-festbetraege/)
+
+
+
 - - -
 
 ## Data - Physicians
+
+- [US National Ambulatory Medical Care Survey (NAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) has public use files on physician level
 
