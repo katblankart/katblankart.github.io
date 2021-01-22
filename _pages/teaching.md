@@ -8,7 +8,7 @@ author_profile: true
 
 # Teaching portfolio
 
-You can find my full teaching portfolio [here](katblankart.github.io/files/Blankart_Teaching_Portfolio.pdf).
+You can find my full teaching portfolio [here](/files/Blankart_Teaching_Portfolio.pdf).
 
 
 # Data science techniques in health care research
