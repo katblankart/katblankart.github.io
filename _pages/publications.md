@@ -12,6 +12,9 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+
+Vadia R, Blankart KE. Regional Innovation Systems of Medical Technology: A knowledge production function of cardiovascular research and funding in Europe. Region. conditional accept after minor revision [Abstract & Supplementary Files](https://osf.io/q537u/?view_only=3a4d739830a24d559a390f018a079040) ; [EuHEa 2020 video presentation, starts at about 00:12:30](https://www.youtube.com/watch?v=HVrSGqCRAkA&feature=youtu.be) ; [Expert discussion by Giovanni Fattore, starts at about 00:08:00](https://www.youtube.com/watch?v=iAnmZiD85-Y&feature=youtu.be).
+
 [**Blankart KE**, Stargardt T. The impact of drug quality ratings from health technology assessments on the adoption of new drugs by physicians in Germany. Health Economics. 2020;29(S1):63–82.](https://doi.org/10.1002/hec.4108) 
 
 [**Blankart KE**, Lichtenberg FR. Are patients more adherent to newer drugs? Health Care Manag Sci. 2020 Aug 8;23:605–18.](https://doi.org/10.1007/s10729-020-09513-5)
