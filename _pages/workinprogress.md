@@ -15,7 +15,7 @@ author_profile: true
 
 - **The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany.** with Benjamin Birkner
 
-  Under review. [Data Availability and Provenance Statemtents.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
+  Under review. [Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
 
 
 ## Health and innovation

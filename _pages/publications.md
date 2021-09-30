@@ -13,7 +13,7 @@ author_profile: true
 ## Peer-reviewed journal articles
 
 
-Vadia R, Blankart KE. Regional Innovation Systems of Medical Technology: A knowledge production function of cardiovascular research and funding in Europe. Region. conditional accept after minor revision [Abstract & Supplementary Files](https://osf.io/q537u/?view_only=3a4d739830a24d559a390f018a079040) ; [EuHEa 2020 video presentation, starts at about 00:12:30](https://www.youtube.com/watch?v=HVrSGqCRAkA&feature=youtu.be) ; [Expert discussion by Giovanni Fattore, starts at about 00:08:00](https://www.youtube.com/watch?v=iAnmZiD85-Y&feature=youtu.be).
+[Vadia R, **Blankart K**. Regional Innovation Systems of Medical Technology: REGION. 2021 Sep 27;8(2):57–81.](https://openjournals.wu-wien.ac.at/ojs/index.php/region/article/view/352) [Abstract & Supplementary Files](https://osf.io/q537u/?view_only=3a4d739830a24d559a390f018a079040) ; [EuHEa 2020 video presentation, starts at about 00:12:30](https://www.youtube.com/watch?v=HVrSGqCRAkA&feature=youtu.be) ; [Expert discussion by Giovanni Fattore, starts at about 00:08:00](https://www.youtube.com/watch?v=iAnmZiD85-Y&feature=youtu.be).
 
 [**Blankart KE**, Stargardt T. The impact of drug quality ratings from health technology assessments on the adoption of new drugs by physicians in Germany. Health Economics. 2020;29(S1):63–82.](https://doi.org/10.1002/hec.4108) 
 
@@ -56,9 +56,13 @@ Vadia R, Blankart KE. Regional Innovation Systems of Medical Technology: A knowl
 
 ## Book chapters
 
-Blankart K. Heilung um jeden Preis? - Die 20.000€ Pille oder die Herausforderung der Preissetzungsstrategie im Gesundheitswesen. In: Ritz A, Sager F, Lienhard A, editors. Fälle zu Public Management und Verwaltungswissenschaft. (forthcoming)
+[Blankart K. Fallstudie 11: Der strategische Kampf: Wettbewerbsfähigkeit durch die europäische Waren- und Dienstleistungsfreiheit. In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 107–18.](https://doi.org/10.1007/978-3-658-31068-4_12)
 
-Blankart K. Der strategische Kampf: Wettbewerbsfähigkeit durch die europäische Waren- und Dienstleistungsfreiheit. In: Ritz A, Sager F, Lienhard A, Blankart CRB, editors. Fälle zu Public Management und Verwaltungswissenschaft. (forthcoming)
+[Blankart K. Fallstudie 12: Heilung um jeden Preis? – Die 20.000-€-Pille oder die Herausforderung der Preissetzungsstrategie im Gesundheitswesen. In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 119–29.](https://doi.org/10.1007/978-3-658-31068-4_13)
+
+[Blankart K. Thema: Stakeholder Typologie nach Mitchell, Agle und Wood (1997) (Fallstudie 12). In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 371–4.](https://doi.org/10.1007/978-3-658-31068-4_41)
+
+[Blankart K. Thema: Strategische Analyse und Prognose – Analyse brancheninterner Strukturen (Fallstudie 11). In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 367–9.](https://doi.org/10.1007/978-3-658-31068-4_40)
 
 
 ## Articles in German
