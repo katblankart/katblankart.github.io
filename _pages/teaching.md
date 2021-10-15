@@ -38,7 +38,17 @@ This is a selection of readily available case studies that I regularly teach to 
 
 - [**British National Health Service Reform**, by Anne Snowdon, Alexander Smith, Luca Pisterzi](https://hbsp.harvard.edu/product/W14286-PDF-ENG)
 
-I have written two case study texts in German languange which will be edited in a case collection for Public Administration scholars in 2021. Please email to obtain full texts.
+I have written two case study texts in German language. Teaching notes may be obtained for educators upon request:
+
+- [Blankart K. Fallstudie 11: Der strategische Kampf: Wettbewerbsfähigkeit durch die europäische Waren- und Dienstleistungsfreiheit. In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 107–18.](https://doi.org/10.1007/978-3-658-31068-4_12)
+
+- [Blankart K. Fallstudie 12: Heilung um jeden Preis? – Die 20.000-€-Pille oder die Herausforderung der Preissetzungsstrategie im Gesundheitswesen. In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 119–29.](https://doi.org/10.1007/978-3-658-31068-4_13)
+
+- [Blankart K. Thema: Stakeholder Typologie nach Mitchell, Agle und Wood (1997) (Fallstudie 12). In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 371–4.](https://doi.org/10.1007/978-3-658-31068-4_41)
+
+- [Blankart K. Thema: Strategische Analyse und Prognose – Analyse brancheninterner Strukturen (Fallstudie 11). In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 367–9.](https://doi.org/10.1007/978-3-658-31068-4_40)
+
+ 
 
 
 Harvard Business Publishing provides resources how to use the [case study method](http://academic.hbsp.harvard.edu/teachingwithcases) in teaching.

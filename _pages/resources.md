@@ -101,3 +101,19 @@ These data bases help to identify active ingredients by different classification
 ## Data - Physicians
 
 - [US National Ambulatory Medical Care Survey (NAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) has public use files on physician level
+
+
+- - -
+
+## Working Agile and using scrum principles in academic research projects
+
+I am an advocate of agile methods to structure research projects and team work in academia, here are some resources to start off your scrum-based or agile work:
+
+- What is scrum and agile and how can this help to organize scientific work? This [Nature article](https://www.nature.com/articles/d41586-019-02620-6) provides an introduction to scrum principles and how the work of research teams could benefit from scrum methods. It introduces key concepts of scrum.
+
+- [The Agile Academic Podcast] and [Agile Academic Blog](https://agilefaculty.wordpress.com/blog/) by Rebecca Pope-Ruark who also has written a book about [agile faculty](https://press.uchicago.edu/ucp/books/book/chicago/A/bo26106581.html)
+
+- [Some tips about overcommitment by Amy J. Kho](https://medium.com/bits-and-behavior/managing-overcommitment-in-academia-8d281a2df09)
+
+- Besides scrum, the Pomodoro technique helps to structure a day and [pomofocus.io](https://pomofocus.io/) is a tool to do so.
+
