@@ -8,9 +8,8 @@ author_profile: true
 
 ## Physician practice styles and technology
 
-- **Do soft cost-control measures change productivity? - Preferred statin prescribing in Germany.** with Daniel Avdic
-
-  Was nomiated as 10% best submissionts to Health Care Management Division of the Academy of Management 2021. [Link to abridged proceedings paper version](https://journals.aom.org/doi/10.5465/AMBPP.2021.226).
+- **A Hard Look at ‘Soft’ Cost‐control Measures in Healthcare Organizations: Evidence from Preferred Drug Policies in Germany.** with Daniel Avdic, [CINCH working paper series 2021(08). doi: 10.17185/duepublico/74978.](https://duepublico2.uni-due.dereceive/duepublico_mods_00074978)  
+  [An earlier version was nomiated as 10% best submissions to Health Care Management Division of the Academy of Management 2021.](https://journals.aom.org/doi/10.5465/AMBPP.2021.226).
 
 
 - **The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany.** with Benjamin Birkner
