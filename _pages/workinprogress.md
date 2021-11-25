@@ -21,20 +21,17 @@ author_profile: true
 
 - [**Stakeholder Participation in Regulatory Decision-Making**, with Victoria Lauenroth and Tom Stargardt](https://journals.aom.org/doi/10.5465/AMBPP.2018.11748abstract), please email for the working paper.
 
+- [Health policy makes strategy to innovate? A content analysis of innovation policies in Germany, 1994‒2017], with Melina Kurte, under review.  
+
 - **Tradeoffs in access to new drug therapies between the US and Germany**, with Amitabh Chandra and Huseyin Naci
 
 - **Seeking system certification, innovation, or both? – Examining the relationships towards high quality care in specialized cancer care**, with Tim Brand and Eva Goetjes
-
 
 
 - - -
 
 
 ## Economics & management of pharmaceutical markets
-
-- [**Do medicine shortages reduce access to care and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020.** with Stefan Felder](https://wwz.unibas.ch/de/wwz-forum/projekte-und-publikationen/fv-78/)
-
-   Under review. [Data Preparation and Analysis Codes.](https://osf.io/z57vg/?view_only=b8548abd78e743c0982c66289923966f)
 
 
 - **Mind the gap! Explaining changes in multisource drug utilization over time - a decomposition approach.** with Sotiris Vandoros. Please email for a working paper.

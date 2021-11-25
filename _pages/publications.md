@@ -12,6 +12,9 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+[**Do medicine shortages reduce access to care and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020.** with Stefan Felder, accepted. Value in Health](https://wwz.unibas.ch/de/wwz-forum/projekte-und-publikationen/fv-78/)
+
+[Data Preparation and Analysis Codes.](https://osf.io/z57vg/?view_only=b8548abd78e743c0982c66289923966f)
 
 [Vadia R, **Blankart K**. Regional Innovation Systems of Medical Technology: REGION. 2021 Sep 27;8(2):57–81.](https://openjournals.wu-wien.ac.at/ojs/index.php/region/article/view/352) [Abstract & Supplementary Files](https://osf.io/q537u/?view_only=3a4d739830a24d559a390f018a079040) ; [EuHEa 2020 video presentation, starts at about 00:12:30](https://www.youtube.com/watch?v=HVrSGqCRAkA&feature=youtu.be) ; [Expert discussion by Giovanni Fattore, starts at about 00:08:00](https://www.youtube.com/watch?v=iAnmZiD85-Y&feature=youtu.be).
 
