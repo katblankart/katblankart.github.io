@@ -12,7 +12,11 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-[**Do medicine shortages reduce access to care and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020.** with Stefan Felder, accepted. Value in Health](https://wwz.unibas.ch/de/wwz-forum/projekte-und-publikationen/fv-78/)
+**The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany.** with Benjamin Birkner, accepted, Value in Health
+
+[Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
+
+[**Blankart KE, Felder S. Do Medicine Shortages Reduce Access and Increase Pharmaceutical Expenditure? A Retrospective Analysis of Switzerland 2015-2020. Value in Health. 2022](https://www.sciencedirect.com/science/article/pii/S1098301522000535)
 
 [Data Preparation and Analysis Codes.](https://osf.io/z57vg/?view_only=b8548abd78e743c0982c66289923966f)
 

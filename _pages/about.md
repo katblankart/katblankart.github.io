@@ -25,7 +25,8 @@ My research is in the areas of health and innovation. I study the institutional 
 
 News
 -------
-- **[Accepted paper]**: The study "Do medicine shortages reduce access and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020", joint with Stefan Felder has been accepted for publication in Value in Health.
+- **[Accepted paper]**: The study "The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on the prescribing behavior of physicians in Germany", joint with Benjamin Birkner has been accepted for publication in Value in Health.
+- **[In-press article]**: The study "Do medicine shortages reduce access and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020", joint with Stefan Felder [is available online via open access](https://www.sciencedirect.com/science/article/pii/S1098301522000535).
 - **[New WP]**: [*A Hard Look at “Soft” Cost‐control Measures in Healthcare Organizations: Evidence from Preferred Drug Policies in Germany*](https://duepublico2.uni-due.de/receive/duepublico_mods_00074978) with Daniel Avdic
 - **[November 9, 2021]**: The German-American Trade Chamber Midwest invited me as a panelist to discuss about the [Future of Transatlantic Collaboration in Biopharma and MedTech](https://www.linkedin.com/events/6849029159679782912/).
 - **[October 2021]**: I was invited to present my current work on *A hard look at “soft” cost-control measures in healthcare organizations: Evidence from preferred drug policies in Germany* in resarch talks at Lund University, Applied Economics Seminar and Gesundheitsökonomischer Ausschuss, Verein für Socialpolitik, Leibniz-Universität Hannover.
