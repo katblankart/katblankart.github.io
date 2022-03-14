@@ -11,11 +11,11 @@ author_profile: true
 You can find my full teaching portfolio [here](/files/Blankart_Teaching_Portfolio.pdf).
 
 
-# Data science techniques in health care research
+# Data science techniques and reproducible research in health care research
 
-I have developed a project based seminar in which graduate students perform a data science project and apply econometrics using publicly available health care data based on the [US Medical Expenditures Panel Survey](https://meps.ahrq.gov/mepsweb/) and the [US National Ambulatory Medical Care Survey](https://www.cdc.gov/nchs/ahcd/index.htm).
+I have developed a project-based seminar in which graduate students perform a data science project and apply econometrics using publicly available health care data based on the [US Medical Expenditures Panel Survey](https://meps.ahrq.gov/mepsweb/) and the [US National Ambulatory Medical Care Survey](https://www.cdc.gov/nchs/ahcd/index.htm).
 
-This course is part of [Data Campus at University of Duisburg-Essen](https://www.uni-due.de/ub/datacampus/index.php), an initivative to improve data literacy of students. We develop a resource to perfrom a reproducible research project using health care data for graduate students. Stay tuned!
+This course is part of [Data Campus at University of Duisburg-Essen](https://www.uni-due.de/ub/datacampus/index.php), an initivative to improve data literacy of students. We have developed [a concise guide to reproducible research using secondary data](https://katblankart.github.io/DataLiteracy/).
 
 
 # Case study teaching
