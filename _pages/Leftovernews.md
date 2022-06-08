@@ -1,4 +1,7 @@
+- **[11/2011]**: [*A Hard Look at “Soft” Cost‐control Measures in Healthcare Organizations: Evidence from Preferred Drug Policies in Germany*](https://duepublico2.uni-due.de/receive/duepublico_mods_00074978) with Daniel Avdic
+- **[11/2021]**: The German-American Trade Chamber Midwest invited me as a panelist to discuss about the [Future of Transatlantic Collaboration in Biopharma and MedTech](https://www.linkedin.com/events/6849029159679782912/).
 
-
+- **[October 2021]**: I was invited to present my current work on *A hard look at “soft” cost-control measures in healthcare organizations: Evidence from preferred drug policies in Germany* in resarch talks at Lund University, Applied Economics Seminar and Gesundheitsökonomischer Ausschuss, Verein für Socialpolitik, Leibniz-Universität Hannover.
+- **[May 2021]**: I was part of a panel about HEALTH ECONOMICS AND POLICY, [hosted by The Women in Economics Initiative / Fachschaft VWL der Universität Bonn](https://women-in-economics.com/event/health-economics-and-policy-wie-inspire/)
 - **[April 2021]**: I have been nominated for best paper by the Academy of Management, Health Care Management Division, 81th Annual Meeting for my submission "Do soft cost-control measures change productivity? - Preferred statin prescribing in Germany", along with my co-author Daniel Avdic. 
 - **[March 2021]**: My project proposal "Causes and consequences of drug shortages" has received funding by the German Research Foundation. [Media Information German](https://www.uni-due.de/2021-04-07-medikamentenknappheit-vermeiden); [Media Information English](https://www.hertie-school.org/en/news/detail/content/mujaheed-shaikh-and-katharina-blankart-analyse-causes-and-consequences-of-drug-shortages-through-new-research-project)

@@ -12,7 +12,7 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-**The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany.** with Benjamin Birkner, accepted, Value in Health
+[**Birkner B, Blankart KE. The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany. Value in Health 2022**](https://www.sciencedirect.com/science/article/pii/S1098301522001474)
 
 [Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
 
@@ -73,6 +73,8 @@ author_profile: true
 
 
 ## Articles in German
+
+[Blankart, K., Felder, S., 2022. Arzneimittel: Placebo bei Engpassbekämpfung. Wirtschaftsdienst 2022, 248–248.](https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/4/beitrag/placebo-bei-engpassbekaempfung.html)
 
 [Kurte MS, Blankart K. Ambulant-sensitive Krankenhausfälle in Deutschland – Abgrenzung, Prävalenz und Kosten. Gesundh ökon Qual manag. 2019 May 7;24(06):277–91.](http://www.thieme-connect.de/DOI/DOI?10.1055/a-0890-9600)
 

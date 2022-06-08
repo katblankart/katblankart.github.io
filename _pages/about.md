@@ -23,14 +23,14 @@ Research fields
 
 My research is in the areas of health and innovation. I study the institutional settings of determining value of and access to health technology. An important aspect of this research is how providers and patients use technology to improve health and health care. I am especially dedicated to study the economics and management of pharmaceutical care. I employ the state of the art toolbox to establish causal analyses relying on data science techniques, econometrics, as well as qualitative methods.
 
-News
+Highlights
 -------
-- **[Accepted paper]**: The study "The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on the prescribing behavior of physicians in Germany", joint with Benjamin Birkner has been accepted for publication in Value in Health.
-- **[In-press article]**: The study "Do medicine shortages reduce access and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020", joint with Stefan Felder [is available online via open access](https://www.sciencedirect.com/science/article/pii/S1098301522000535).
-- **[New WP]**: [*A Hard Look at “Soft” Cost‐control Measures in Healthcare Organizations: Evidence from Preferred Drug Policies in Germany*](https://duepublico2.uni-due.de/receive/duepublico_mods_00074978) with Daniel Avdic
-- **[November 9, 2021]**: The German-American Trade Chamber Midwest invited me as a panelist to discuss about the [Future of Transatlantic Collaboration in Biopharma and MedTech](https://www.linkedin.com/events/6849029159679782912/).
-- **[October 2021]**: I was invited to present my current work on *A hard look at “soft” cost-control measures in healthcare organizations: Evidence from preferred drug policies in Germany* in resarch talks at Lund University, Applied Economics Seminar and Gesundheitsökonomischer Ausschuss, Verein für Socialpolitik, Leibniz-Universität Hannover.
-- **[May 2021]**: I was part of a panel about HEALTH ECONOMICS AND POLICY, [hosted by The Women in Economics Initiative / Fachschaft VWL der Universität Bonn](https://women-in-economics.com/event/health-economics-and-policy-wie-inspire/)
+- **[06/2002]**: I presented a new study on the effect of off-label drug use on disability and health care use in a panel of *Pharmaceutical Innovation, Drug Use and Health Outcomes* at the University of Basel. I will present this study in the upcoming weeks at multiple occasions.
+- **[04/2022]**: I was elected as member of the extended board of the German Health Economics Association [Deutsche Gesellschaft für Gesundheitsökonomie](https://www.dggoe.de/).
+- **[04/2022]**: Joint with Stefan Felder, I published a comment on German policies to ameliorate drug shortages in [Wirtschaftsdienst](https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/4/beitrag/placebo-bei-engpassbekaempfung.html).
+- **[03/2022]**: The study "The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on the prescribing behavior of physicians in Germany", joint with Benjamin Birkner has been accepted for publication in Value in Health.
+- **[02/2022]**: The study "Do medicine shortages reduce access and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020", joint with Stefan Felder [is available online via open access](https://www.sciencedirect.com/science/article/pii/S1098301522000535).
+
 
 
 
