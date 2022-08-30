@@ -25,7 +25,8 @@ My research is in the areas of health and innovation. I study the institutional 
 
 Highlights
 -------
-- **[06/2002]**: I presented a new study on the effect of off-label drug use on disability and health care use in a panel of *Pharmaceutical Innovation, Drug Use and Health Outcomes* at the University of Basel. I will present this study in the upcoming weeks at multiple occasions.
+- **[08/2022]**: A new article was released that compares availability of medicines in the US and Germany in [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755).
+- **[06/2022]**: I presented a new study on the effect of off-label drug use on disability and health care use in a panel of *Pharmaceutical Innovation, Drug Use and Health Outcomes* at the University of Basel. I will present this study in the upcoming weeks at multiple occasions.
 - **[04/2022]**: I was elected as member of the extended board of the German Health Economics Association [Deutsche Gesellschaft für Gesundheitsökonomie](https://www.dggoe.de/).
 - **[04/2022]**: Joint with Stefan Felder, I published a comment on German policies to ameliorate drug shortages in [Wirtschaftsdienst](https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/4/beitrag/placebo-bei-engpassbekaempfung.html).
 - **[03/2022]**: The study "The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on the prescribing behavior of physicians in Germany", joint with Benjamin Birkner has been accepted for publication in Value in Health.

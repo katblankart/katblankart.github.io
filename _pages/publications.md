@@ -12,6 +12,9 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+[**Blankart K, Naci H, Chandra A. Availability of New Medicines in the US and Germany From 2004 to 2018. JAMA Network Open. 2022 Aug 30;5(8):e2229231.**](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755)
+
+
 [**Birkner B, Blankart KE. The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany. Value in Health 2022**](https://www.sciencedirect.com/science/article/pii/S1098301522001474)
 
 [Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
