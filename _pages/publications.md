@@ -12,10 +12,9 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-[**Blankart K, Naci H, Chandra A. Availability of New Medicines in the US and Germany From 2004 to 2018. JAMA Network Open. 2022 Aug 30;5(8):e2229231.**](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755)
+[**Blankart K**, Naci H, Chandra A. Availability of New Medicines in the US and Germany From 2004 to 2018. JAMA Network Open. 2022 Aug 30;5(8):e2229231.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755)
 
-
-[**Birkner B, Blankart KE. The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany. Value in Health 2022**](https://www.sciencedirect.com/science/article/pii/S1098301522001474)
+[Birkner B, **Blankart KE**. The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany. Value in Health 2022](https://www.sciencedirect.com/science/article/pii/S1098301522001474)
 
 [Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
 
@@ -32,7 +31,6 @@ author_profile: true
 [**Blankart KE**, Arndt F. Physician-Level Cost Control Measures and Regional Variation of Biosimilar Utilization in Germany. International Journal of Environmental Research and Public Health. 2020 Jan;17(11):4113.](https://www.mdpi.com/1660-4601/17/11/4113)
 
 [Winter V, Thomsen MK, Schreyögg J, **Blankart K**, Duminy L, Schoenenberger L, et al. Improving Service Provision - The Health Care Services’ Perspective. SMR. 2019;3(4):163–83.](https://elibrary.vahlen.de/index.php?doi=10.15358/2511-8676-2019-4-163)
-
 
 [Guhl D, **Blankart KE**, Stargardt T. Service quality and perceived customer value in community pharmacies. Health Services Management Research. 2019 Feb 1;32(1):36–48.](http://journals.sagepub.com/doi/10.1177/0951484818761730)
 

@@ -14,7 +14,7 @@ author_profile: true
 
 ## Health and innovation
 
-- **The effects of off-label drug use on disability and medical expenditure**, with Frank Lichtenberg
+- [**Blankart KE**, Lichtenberg FR. The Effects of Off-label Drug Use on Disability and Medical Expenditure. National Bureau of Economic Research; 2022.](https://www.nber.org/papers/w30440), under reivew
 
 - **To Seek Program Accreditation, Innovation, or Both? – Examining the Interdependencies in Specialized Cancer Care**, with Tim Brand and Eva Goetjes, major revision requested
 
