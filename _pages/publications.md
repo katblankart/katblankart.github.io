@@ -18,7 +18,7 @@ author_profile: true
 
 [Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
 
-[**Blankart KE, Felder S. Do Medicine Shortages Reduce Access and Increase Pharmaceutical Expenditure? A Retrospective Analysis of Switzerland 2015-2020. Value in Health. 2022](https://www.sciencedirect.com/science/article/pii/S1098301522000535)
+[**Blankart KE**, Felder S. Do Medicine Shortages Reduce Access and Increase Pharmaceutical Expenditure? A Retrospective Analysis of Switzerland 2015-2020. Value in Health. 2022](https://www.sciencedirect.com/science/article/pii/S1098301522000535)
 
 [Data Preparation and Analysis Codes.](https://osf.io/z57vg/?view_only=b8548abd78e743c0982c66289923966f)
 

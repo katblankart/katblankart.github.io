@@ -6,34 +6,36 @@ author_profile: true
 
 ---
 
-## Technological progress and physician practice
+## Understanding sources of inefficiency in health care
 
 - **A Hard Look at ‘Soft’ Cost‐control Measures in Healthcare Organizations: Evidence from Preferred Drug Policies in Germany.** with Daniel Avdic, [CINCH working paper series 2021(08). doi: 10.17185/duepublico/74978.](https://duepublico2.uni-due.dereceive/duepublico_mods_00074978)  
   [An earlier version was nomiated as 10% best submissions to Health Care Management Division of the Academy of Management 2021](https://ideas.repec.org/p/ajt/wcinch/74978.html).
   
-
-## Health and innovation
-
 - [**Blankart KE**, Lichtenberg FR. The Effects of Off-label Drug Use on Disability and Medical Expenditure. National Bureau of Economic Research; 2022.](https://www.nber.org/papers/w30440), under reivew
+
+- **Access to novel treatment pathways of oral antidiabetics by health insurance system in Germany** with Eva Goetjes.
+
+## Innovators & innovation policy in health care
+
 
 - **To Seek Program Accreditation, Innovation, or Both? – Examining the Interdependencies in Specialized Cancer Care**, with Tim Brand and Eva Goetjes, major revision requested
 
-- **Can the German Innovation Fund promote innovation? A content analysis of innovation policy and strategy, 1994‒2017**, with Melina Kurte, under review.  
+- **The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg.
 
-- [**Stakeholder Participation in Regulatory Decision-Making**, with Victoria Lauenroth and Tom Stargardt](https://journals.aom.org/doi/10.5465/AMBPP.2018.11748abstract), please email for the working paper.
+- **Can the German Innovation Fund promote innovation? A content analysis of innovation policy and strategy, 1994‒2017**, with Melina Kurte, under review.  
 
 
 - - -
 
 
-## Economics & management of pharmaceutical markets
-
+## Regulation and market design of pharmaceutical and biotechnological markets 
 
 - **Mind the gap! Explaining changes in multisource drug utilization over time - a decomposition approach.** with Sotiris Vandoros. Please email for a working paper.
 
-- **Access to novel treatment pathways of oral antidiabetics by health insurance system in Germany** with Eva Goetjes, submitted.
-
 - **Online elicitation of Personal Utility Functions (OPUF): capturing health preferences on the subgroup and individual patient level**, with Paul Schneider, John Brazier, Ben van Hout, Nancy Devlin
+
+- [**Stakeholder Participation in Regulatory Decision-Making**, with Victoria Lauenroth and Tom Stargardt](https://journals.aom.org/doi/10.5465/AMBPP.2018.11748abstract), please email for the working paper.
+
 
 - - -
 
