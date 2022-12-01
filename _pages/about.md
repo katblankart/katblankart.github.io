@@ -25,7 +25,7 @@ My research is in the areas of health and innovation. I study the institutional 
 
 Highlights & news
 -------
-- **[11/2022]**: Unfortunately, University of Duisburg-Essen was suject to a cyberattack. I currently do not receive any emails which are sent to katharina.blankart@uni-due.de. Please contact me via Twitter or LinkedIn. Students of Health Economics 1 at University of Duisburg-Essen, Essen Campus: Lectures and tutorials will take place as scheduled this week despite the #cyberattack. We will provide access to course material in person in class!
+- **[12/2022]**: Unfortunately, University of Duisburg-Essen was suject to a cyberattack. I currently do not receive any emails which are sent to katharina.blankart@uni-due.de. You can reach me via katharina.blankart.ude@gmail.com. Please contact me via Twitter or LinkedIn. Students of Health Economics 1 at University of Duisburg-Essen, Essen Campus: Lectures and tutorials will take place as scheduled this week despite the #cyberattack. You can find information about classes in the teaching section.
 - **[08/2022]**: A new article was released that compares availability of medicines in the US and Germany in [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755).
 - **[06/2022]**: I presented a new study on the effect of off-label drug use on disability and health care use in a panel of *Pharmaceutical Innovation, Drug Use and Health Outcomes* at the University of Basel. I will present this study in the upcoming weeks at multiple occasions.
 - **[04/2022]**: I was elected as member of the extended board of the German Health Economics Association [Deutsche Gesellschaft für Gesundheitsökonomie](https://www.dggoe.de/).
