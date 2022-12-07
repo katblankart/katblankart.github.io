@@ -16,7 +16,7 @@ Due to the cyberattack to University of Duisburg-Essen, the moodle classroom can
 	
 	- Lecture: December 1st, 16:00-17:30
 	- Lecture: December 7th, 08:30-10:00
-	- Lecture: December 8th, 16:00-17:30
+	- Lecture: December 8th, 16:00-17:30 (**This slot is cancelled!**)
 	- Tutorial: December 14th, 08:30-10:00
 	- Tutorial: December 15th, 16:00-17:30
 	- Tutorial: December 21st, 08:30-10:00 
