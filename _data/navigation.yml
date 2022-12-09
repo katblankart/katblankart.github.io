@@ -18,6 +18,9 @@ main:
        
   - title: "Resources"
     url: /resources/
+
+  - title: "Workshops"
+    url: /workshops/
     
    
  # - title: "Guide"
