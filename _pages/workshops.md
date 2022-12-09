@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CINCH Ukraine Workshop"
-permalink: /workshop/
+permalink: /workshops/
 author_profile: true
 ---
 
