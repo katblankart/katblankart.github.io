@@ -7,7 +7,7 @@ author_profile: true
 
 # Health and Human Capital in a Transition Economy – Research agenda for Ukraine - Virtual Workshop
 
-The workshop will take place **completely virtually** on **February 22-23, 2023**.
+The workshop will take place **completely virtually** on **Wednesday, February 22, 2023**.
 
 The workshop aims to gather (junior) researchers, and practitioners, and policy-makers to promote economic and policy research on Ukraine and other Central and Eastern European (CEE) countries, to exchange best practices and lessons learned and formulate policy recommendations to support Ukraine’s transition as EU Candidate. It provides a platform to network, exchange research ideas, and discuss existing scientific work to increase research on Ukraine and other CEE countries and to advance evidence-based policies.  Topics include, but are not limited to, applied economic and policy research in the fields of health, education and labour economics. No prior knowledge of the Ukrainian context required, but a willingness to engage with the country is welcomed.
 
@@ -37,10 +37,8 @@ The workshop is free of charge.
 
 ## Virtual workshop organization
 
-The workshop will take place virtually via Zoom. The scheduled times of the workshop are:
+The workshop will take place virtually via Zoom on Wednesday, February 22, 2023, 13:00 - 18:00 CET.
 
-- February 22, 2023, 14:00 - 17:00 CET
-- February 23, 2023, 09:00 - 12:30 CET
 
 We will distribute the programme and log-in information in the beginning of February 2023 to all participants.
 
