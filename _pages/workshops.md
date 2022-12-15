@@ -25,9 +25,7 @@ Feel free to distribute the [**call for papers**](https://uni-duisburg-essen.sci
 
 ## Keynotes & application
 
-Key note speakers will be announced shortly here.
-
-<!--We are pleased to announce that xxx () and yyy () will deliver the keynotes for the workshop.-->
+We are pleased to announce that [Olena Doroshenko (Health Economist, World Bank)](https://blogs.worldbank.org/team/olena-doroshenko) will deliver a keynote for the workshop.
 
 If you wish to participate, please submit your abstract and personal information via the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdURC3If21jtOpaoil0uLeFatIUOo78SE4wZLCQWGmif7qLZw/viewform?usp=sharing) by Sunday, 15 January, 2023.
 
