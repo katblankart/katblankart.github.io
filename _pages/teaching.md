@@ -13,13 +13,18 @@ Due to the cyberattack to University of Duisburg-Essen, the moodle classroom can
 
 - Upcoming lecture and tutorials until end of 2022
 
-	
-	- Lecture: December 1st, 16:00-17:30
-	- Lecture: December 7th, 08:30-10:00
-	- Lecture: December 8th, 16:00-17:30 (**This slot is cancelled!**)
+
 	- Tutorial: December 14th, 08:30-10:00
 	- Tutorial: December 15th, 16:00-17:30
-	- Tutorial: December 21st, 08:30-10:00 
+	- Tutorial: December 21st, 08:30-10:00 (**This slot is cancelled!**)
+	- Lecture: January 11th, 08:30-10:00
+	- Lecture: January 12th, 16:00-17:30
+	- Lecture: January 18th, 08:30-10:00
+	- Lecture: January 19th, 16:00-17:30
+	- Tutorial: January 25th, 08:30-10:00
+	- Tutorial: January 26th, 16:00-17:30
+	- Tutorial: February 1st, 08:30-10:00
+	- Lecture & Tutorial: Question & Answer Session, February 2nd, 16:00-17:30 (virtually)
 	
 - Room: Altendorfer Str., A-B05
 - [Access to lecture slides and problem sets](https://uni-duisburg-essen.sciebo.de/s/cgYAmr8dWA43nZ7)
