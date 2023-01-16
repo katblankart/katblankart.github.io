@@ -7,6 +7,9 @@ author_profile: true
 
 # Health and Human Capital in a Transition Economy – Research agenda for Ukraine - Virtual Workshop
 
+
+*Please note that the deadline to submit your contribution or expression of interest to the workshop until 22 January 2023, 23:59!*
+
 The workshop will take place **completely virtually** on **Wednesday, February 22, 2023**.
 
 The workshop aims to gather (junior) researchers, and practitioners, and policy-makers to promote economic and policy research on Ukraine and other Central and Eastern European (CEE) countries, to exchange best practices and lessons learned and formulate policy recommendations to support Ukraine’s transition as EU Candidate. It provides a platform to network, exchange research ideas, and discuss existing scientific work to increase research on Ukraine and other CEE countries and to advance evidence-based policies.  Topics include, but are not limited to, applied economic and policy research in the fields of health, education and labour economics. No prior knowledge of the Ukrainian context required, but a willingness to engage with the country is welcomed.
@@ -27,7 +30,7 @@ Feel free to distribute the [**call for papers**](https://uni-duisburg-essen.sci
 
 We are pleased to announce that [Olena Doroshenko (Health Economist, World Bank)](https://blogs.worldbank.org/team/olena-doroshenko) will deliver a keynote for the workshop.
 
-If you wish to participate, please submit your abstract and personal information via the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdURC3If21jtOpaoil0uLeFatIUOo78SE4wZLCQWGmif7qLZw/viewform?usp=sharing) by Sunday, 15 January, 2023.
+If you wish to participate, please submit your abstract and personal information via the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdURC3If21jtOpaoil0uLeFatIUOo78SE4wZLCQWGmif7qLZw/viewform?usp=sharing) by **Sunday 22 January 2023, 23:59**.
 
 We ask participants to submit a motivating statement of not more than 100 words why they aim to participate **or** an abstract of a study in the context of the topic of the workshop. A full paper **is not required** to participate in the workshop. 
 

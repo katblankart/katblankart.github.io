@@ -11,7 +11,7 @@ Due to the cyberattack to University of Duisburg-Essen, the moodle classroom can
 
 ## Health Economics 1 - The demand for health and health care
 
-- Upcoming lecture and tutorials until end of 2022
+- Upcoming lecture and tutorials until end of the winter term 2022/2023
 
 
 	- Lecture: January 11th, 08:30-10:00
