@@ -1,3 +1,8 @@
+- **[12/2022]**: Unfortunately, University of Duisburg-Essen was suject to a cyberattack. I currently do not receive any emails which are sent to katharina.blankart@uni-due.de. You can reach me via katharina.blankart.ude@gmail.com. Please contact me via Twitter or LinkedIn. Students of Health Economics 1 at University of Duisburg-Essen, Essen Campus: Lectures and tutorials will take place as scheduled this week despite the #cyberattack. You can find information about classes in the teaching section.
+- **[04/2022]**: Joint with Stefan Felder, I published a comment on German policies to ameliorate drug shortages in [Wirtschaftsdienst](https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/4/beitrag/placebo-bei-engpassbekaempfung.html).
+- **[03/2022]**: The study "The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on the prescribing behavior of physicians in Germany", joint with Benjamin Birkner has been accepted for publication in Value in Health.
+- **[02/2022]**: The study "Do medicine shortages reduce access and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020", joint with Stefan Felder [is available online via open access](https://www.sciencedirect.com/science/article/pii/S1098301522000535).
+
 - **[11/2011]**: [*A Hard Look at “Soft” Cost‐control Measures in Healthcare Organizations: Evidence from Preferred Drug Policies in Germany*](https://duepublico2.uni-due.de/receive/duepublico_mods_00074978) with Daniel Avdic
 - **[11/2021]**: The German-American Trade Chamber Midwest invited me as a panelist to discuss about the [Future of Transatlantic Collaboration in Biopharma and MedTech](https://www.linkedin.com/events/6849029159679782912/).
 

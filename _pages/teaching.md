@@ -21,7 +21,7 @@ Due to the cyberattack to University of Duisburg-Essen, the moodle classroom can
 	- Tutorial: January 25th, 08:30-10:00
 	- Tutorial: January 26th, 16:00-17:30
 	- Tutorial: February 1st, 08:30-10:00
-	- Lecture: Question & Answer Session, February 1st, 08:30-10:00 (virtually, Zoom-Link shared via Moodle)
+	- Lecture: Question & Answer Session, February 1st, 08:30-10:00 (CANCELLED)
 	- Tutorial: Question & Answer Session, February 2nd, 08:30-10:00
 	
 - Room: Altendorfer Str., A-B05

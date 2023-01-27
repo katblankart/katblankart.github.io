@@ -25,13 +25,11 @@ My research is in the areas of health and innovation. I study the institutional 
 
 Highlights & news
 -------
-- **[12/2022]**: Unfortunately, University of Duisburg-Essen was suject to a cyberattack. I currently do not receive any emails which are sent to katharina.blankart@uni-due.de. You can reach me via katharina.blankart.ude@gmail.com. Please contact me via Twitter or LinkedIn. Students of Health Economics 1 at University of Duisburg-Essen, Essen Campus: Lectures and tutorials will take place as scheduled this week despite the #cyberattack. You can find information about classes in the teaching section.
+- **[01/2023]**: Our working paper "The Effects of Off-label Drug Use on Disability and Medical Expenditure" was covered in a column at [Voxeu.org / CEPR](https://cepr.org/voxeu/columns/label-use-medicines-healthcare-use-and-disability) and [ITIF.org](https://itif.org/publications/2023/01/25/how-off-label-use-of-medicines-drives-health-care-use-and-disability/)
+- **[01/2023]**: I provided a short statement about wasting vaccine doses during the Covid-19 Pandemic in German to [BR Faktenfuchs](https://www.br.de/nachrichten/deutschland-welt/faktenfuchs-rund-36-millionen-corona-impfdosen-abgelaufen,TTmO7lm).
 - **[08/2022]**: A new article was released that compares availability of medicines in the US and Germany in [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755).
 - **[06/2022]**: I presented a new study on the effect of off-label drug use on disability and health care use in a panel of *Pharmaceutical Innovation, Drug Use and Health Outcomes* at the University of Basel. I will present this study in the upcoming weeks at multiple occasions.
 - **[04/2022]**: I was elected as member of the extended board of the German Health Economics Association [Deutsche Gesellschaft für Gesundheitsökonomie](https://www.dggoe.de/).
-- **[04/2022]**: Joint with Stefan Felder, I published a comment on German policies to ameliorate drug shortages in [Wirtschaftsdienst](https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/4/beitrag/placebo-bei-engpassbekaempfung.html).
-- **[03/2022]**: The study "The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on the prescribing behavior of physicians in Germany", joint with Benjamin Birkner has been accepted for publication in Value in Health.
-- **[02/2022]**: The study "Do medicine shortages reduce access and increase pharmaceutical expenditure? A retrospective analysis of Switzerland 2015‒2020", joint with Stefan Felder [is available online via open access](https://www.sciencedirect.com/science/article/pii/S1098301522000535).
 
 
 
