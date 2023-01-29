@@ -14,6 +14,11 @@ The workshop will take place **completely virtually** on **Wednesday, February 2
 
 The workshop aims to gather (junior) researchers, and practitioners, and policy-makers to promote economic and policy research on Ukraine and other Central and Eastern European (CEE) countries, to exchange best practices and lessons learned and formulate policy recommendations to support Ukraine’s transition as EU Candidate. It provides a platform to network, exchange research ideas, and discuss existing scientific work to increase research on Ukraine and other CEE countries and to advance evidence-based policies.  Topics include, but are not limited to, applied economic and policy research in the fields of health, education and labour economics. No prior knowledge of the Ukrainian context required, but a willingness to engage with the country is welcomed.
 
+## Workshop programme & log-in information
+
+- Participants without an own scientific contribution are welcome!
+- The workshop programme is now available for [download](https://uni-duisburg-essen.sciebo.de/s/GdDNz4Jo0ougahT).
+- Please use [this sign-up form](https://forms.gle/AvuNGBVkHJnq4qPx7) to register for the workshop. We will distribute log-in information one week before the workshop starts.
 
 
 ## Why should you participate in this workshop?
@@ -24,7 +29,7 @@ If you have been asking one of the following questions, you should apply to the 
 2. Seeking for collaboration? We aim to build a network with (junior) researchers, practitioners, and policy-makers.
 3. Aiming to perform policy relevant research in the context of Ukraine? You will learn how to support policy-makers in formulating evidence-based policies to advance Ukraine’s transition as EU candidate.
 
-Feel free to distribute the [**call for papers**](https://uni-duisburg-essen.sciebo.de/s/z3pWxrISwqBI4ZC) to interested colleagues.
+The [**call for papers**](https://uni-duisburg-essen.sciebo.de/s/z3pWxrISwqBI4ZC) is closed now.
 
 ## Keynotes & application
 
@@ -39,9 +44,6 @@ The workshop is free of charge.
 ## Virtual workshop organization
 
 The workshop will take place virtually via Zoom on Wednesday, February 22, 2023, 13:00 - 18:00 CET.
-
-
-We will distribute the programme and log-in information in the beginning of February 2023 to all participants.
 
 ## Organization and scientific committee
 
