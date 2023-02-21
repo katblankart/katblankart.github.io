@@ -43,7 +43,7 @@ The workshop is free of charge.
 
 ## Virtual workshop organization
 
-The workshop will take place virtually via Zoom on Wednesday, February 22, 2023, 13:00 - 18:00 CET.
+The workshop will take place virtually via Zoom on Wednesday, February 22, 2023, 14:00 - 18:00 CET.
 
 ## Organization and scientific committee
 
