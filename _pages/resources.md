@@ -5,27 +5,18 @@ permalink: /resources/
 author_profile: true
 ---
 
+## Reproducible research in health care and elsewhere
 
-## Causality and Program Evaluation
+### A concise guide to reproducible research using secondary data
 
+Do you seek guidance how to perform a reproducible research project? Check out this open educational resource for guidance and tips
 
-- [Differences-in-Difference design, Health Care Policy Science Lab](https://diff.healthpolicydatascience.org/)
+[Blankart, K., Miele, K., Ivets, M., Goetjes, E., 2022. A concise guide to reproducible research using secondary data.](https://duepublico2.uni-due.de/receive/duepublico_mods_00075965)
 
-- [Hernán MA, Robins JM. Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-
-- [Causal Inference: The Mixtape](https://scunning.com/mixtape.html), by Scott Cunningham
-
-- [Causal Graphs](http://www.nickchk.com/causalgraphs.html) explained by Nick Huntington Klein helps to gain an intuitive understanding of identifying causal effects from non-experimental data, [more resources provided](http://www.nickchk.com/causalitybook.html)
+The latest version available from: https://katblankart.github.io/DataLiteracy/
 
 
-
-## Health services and health policy related research methods
-
-- [Methods Articles Health Care Policy Science Lab](http://healthpolicydatascience.org/methods-seminar)
-
-- [Health Services Research methods corner](https://www.hsr.org/methods-corner-article-collection) provides many resources for program evaluation, econometrics and qualitative research
-
-## Reproducible research & open science
+### Additional resources: reproducible research & open science
 
 - A guide to [Reproducibility in Science](http://ropensci.github.io/reproducibility-guide/)
 
@@ -41,11 +32,30 @@ author_profile: true
 
 - - -
 
+## Health Data Science
+
+### Causality and Program Evaluation
 
 
-## Data - Pharmaceutical markets
+- [Differences-in-Difference design, Health Care Policy Science Lab](https://diff.healthpolicydatascience.org/)
 
-### Pharmaceutical reference data bases
+- [Hernán MA, Robins JM. Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
+- [Causal Inference: The Mixtape](https://scunning.com/mixtape.html), by Scott Cunningham
+
+- [Causal Graphs](http://www.nickchk.com/causalgraphs.html) explained by Nick Huntington Klein helps to gain an intuitive understanding of identifying causal effects from non-experimental data, [more resources provided](http://www.nickchk.com/causalitybook.html)
+
+
+
+### Data science in health services and health policy related research
+
+- [Methods Articles Health Care Policy Science Lab](http://healthpolicydatascience.org/methods-seminar)
+
+- [Health Services Research methods corner](https://www.hsr.org/methods-corner-article-collection) provides many resources for program evaluation, econometrics and qualitative research
+
+### (Mostly) openly available health care data
+
+#### Pharmaceutical reference data bases
 
 These data bases help to identify active ingredients by different classifications, all of which are **freely** available.
 
@@ -59,30 +69,20 @@ These data bases help to identify active ingredients by different classification
 
 - [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) is the US National Library's compedium linking different vocabularies that document drugs. You may browse it via [RxNav](https://mor.nlm.nih.gov/RxNav/)
 
-- [Swiss Pharmaceutical Reference Database - Spezialitätenliste](), is freely available for download
+- [Swiss Pharmaceutical Reference Database - Spezialitätenliste](https://spezialitätenliste.ch/), is freely available for download
 
 - German pharmaceutical reference databases are behind paywalls, or for scientific research use that requires registration of a research project
 
 	- [WIDO GKV Arzneimittelindex / German Drug Index](https://www.gbe-bund.de/gbe/ergebnisse.prc_tab?fid=8325&suchstring=arzneiverordnungsreport&query_id=&sprache=E&fund_typ=DQM&methode=&vt=&verwandte=1&page_ret=0&seite=1&p_sprachkz=E&p_uid=&p_lfd_nr=&p_news=&p_aid=&hlp_nr=&p_janein=)
 	- [ABDATA Pharma Daten Service](https://abdata.de/)
 
-### Drug shortages
+#### Drug shortages
 
 - [Drug shortages in Switzerland provided by Enea Martinelli](drugshortage.ch)
 
 
-### HTA and value based decision-making
 
-- Early assessments of health benefit based on AMNOG ([Arzneimittelmarktneuordnungsgesetz](https://www.g-ba.de/bewertungsverfahren/nutzenbewertung/)) in Germany
-
-    - Comprehensive data of benefit assessments is [provided in XML format from GBA](https://www.g-ba.de/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/ais/), currently includes decisions starting from 2020, but will be updated steadily to cover all assessments starting from 2011.
-	- [As part of a project funded by the German Research Foundation, I provide data from the first years that AMNOG was in effect](https://www.hcm.wiwi.uni-due.de/en/research-projects/early-benefit-assessment-of-innovative-pharmaceuticals-according-to-amnog-in-germany-empirical-analysis-of-the-decision-making-process/)
-	- [DAK AMNOG Report 2020](https://www.dak.de/dak/bundesthemen/dak-amnog-report-2020-2331046.html#/), annual report of AMNOG decisions
-	- [Innovationsreport Techniker Krankenkasse](https://www.tk.de/leistungserbringer/personengruppen/aerzte/innovationsreport-2059108) is an annual report about the quality of pharmaceutical care
-
-- - -
-
-### Pharmaceutical market in Germany - all resources are in *German only*
+#### German health care market
 
 - [Zi Trendbericht provides developments of prescription pharmaceuticals in Germany](https://www.zi.de/projekte/rx-trendbericht)
 
@@ -94,14 +94,16 @@ These data bases help to identify active ingredients by different classification
 
 - [Reference Prices - Festbeträge](https://www.dimdi.de/dynamic/de/arzneimittel/festbetraege-und-zuzahlungen/arzneimittel-festbetraege/)
 
+- Early assessments of health benefit based on AMNOG ([Arzneimittelmarktneuordnungsgesetz](https://www.g-ba.de/bewertungsverfahren/nutzenbewertung/)) in Germany
+
+    - Comprehensive data of benefit assessments is [provided in XML format from GBA](https://www.g-ba.de/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/ais/), currently includes decisions starting from 2020, but will be updated steadily to cover all assessments starting from 2011.
+	- [As part of a project funded by the German Research Foundation, I provide data from the first years that AMNOG was in effect](https://www.hcm.wiwi.uni-due.de/en/research-projects/early-benefit-assessment-of-innovative-pharmaceuticals-according-to-amnog-in-germany-empirical-analysis-of-the-decision-making-process/)
+	- [DAK AMNOG Report 2020](https://www.dak.de/dak/bundesthemen/dak-amnog-report-2020-2331046.html#/), annual report of AMNOG decisions
+	- [Innovationsreport Techniker Krankenkasse](https://www.tk.de/leistungserbringer/personengruppen/aerzte/innovationsreport-2059108) is an annual report about the quality of pharmaceutical care
 
 
-- - -
-
-## Data - Physicians
-
+#### Open data to study physician behavior
 - [US National Ambulatory Medical Care Survey (NAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) has public use files on physician level
-
 
 - - -
 

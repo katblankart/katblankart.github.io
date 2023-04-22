@@ -5,45 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Classes at University of Duisburg-Essen, winter term 2022/23
-
-Due to the cyberattack to University of Duisburg-Essen, the moodle classroom cannot be updated at this point. Seminars, lectures and tutorials will take place as scheduled.
-
-## Health Economics 1 - The demand for health and health care
-
-- Upcoming lecture and tutorials until end of the winter term 2022/2023
-
-
-	- Lecture: January 11th, 08:30-10:00
-	- Lecture: January 12th, 16:00-17:30
-	- Lecture: January 18th, 08:30-10:00
-	- Lecture: January 19th, 16:00-17:30
-	- Tutorial: January 25th, 08:30-10:00
-	- Tutorial: January 26th, 16:00-17:30
-	- Tutorial: February 1st, 08:30-10:00
-	- Lecture: Question & Answer Session, February 1st, 08:30-10:00 (CANCELLED)
-	- Tutorial: Question & Answer Session, February 2nd, 08:30-10:00
-	
-- Room: Altendorfer Str., A-B05
-- [Access to lecture slides and problem sets](https://uni-duisburg-essen.sciebo.de/s/cgYAmr8dWA43nZ7)
-
-
-## Data Science and Applied Econometrics in Health Care
-
-Please contact us via katharina.blankart.ude@gmail.com for further information. 
-
-## Performing reproducible research in economics and management sciences
-
-- Term: Winter Semester 2022/2023                                                  
-- Cycle: Blocked course
-                             
-- Time: 27.-28.02.2023 or 01.-02.03.2023
-- Room: tba
-- Language: English
-
-[**Course description, learning targets and formalities**](/files/Outline-PhDReproducible-Research.pdf). To sign up and get further info, please email to katharina.blankart.ude@gmail.com by December 15th 2022.
-
-
 # Teaching portfolio
 
 You can find my full teaching portfolio [here](/files/Blankart_Teaching_Portfolio.pdf).

@@ -13,16 +13,16 @@ author_profile: true
   
 - [**Blankart KE**, Lichtenberg FR. The Effects of Off-label Drug Use on Disability and Medical Expenditure. National Bureau of Economic Research; 2022.](https://www.nber.org/papers/w30440), under reivew
 
-- **Access to novel treatment pathways of oral antidiabetics by health insurance system in Germany** with Eva Goetjes.
+- **Insurance Barriers and Inequalities in Health Care Access: Evidence from dual practice** with Eva Goetjes, under review.
 
 ## Innovators & innovation policy in health care
 
 
-- **To Seek Program Accreditation, Innovation, or Both? – Examining the Interdependencies in Specialized Cancer Care**, with Tim Brand and Eva Goetjes, major revision requested
+- **To Seek Program Accreditation, Innovation, or Both? – Examining the Interdependencies in Specialized Cancer Care**, with Tim Brand and Eva Goetjes, under review
 
 - **The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg.
 
-- **Can the German Innovation Fund promote innovation? A content analysis of innovation policy and strategy, 1994‒2017**, with Melina Kurte, under review.  
+- **Can the German Innovation Fund promote innovation? A content analysis of innovation policy and strategy, 1994‒2017**, with Melina Kurte, under review.
 
 
 - - -
@@ -30,7 +30,7 @@ author_profile: true
 
 ## Regulation and market design of pharmaceutical and biotechnological markets 
 
-- **Mind the gap! Explaining changes in multisource drug utilization over time - a decomposition approach.** with Sotiris Vandoros. Please email for a working paper.
+- **Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation.** with Sotiris Vandoros. Please email for a working paper.
 
 - **Online elicitation of Personal Utility Functions (OPUF): capturing health preferences on the subgroup and individual patient level**, with Paul Schneider, John Brazier, Ben van Hout, Nancy Devlin
 
