@@ -12,6 +12,8 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+Tim Brand, Eva Goetjes, **Katharina Blankart**. To Seek Program Accreditation, Innovation, or Both? – Examining the Interdependencies in Specialized Cancer Care, Schmalenbach Journal of Business Research, accepted August 2023.
+
 [Kurte MS, **Blankart KE**. Policy as a strategy to innovate in health care? A content analysis of innovation policies in Germany, 1994–2017. The International Journal of Health Planning and Management. 2023](  https://onlinelibrary.wiley.com/doi/abs/10.1002/hpm.3692)
 
 

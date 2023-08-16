@@ -17,9 +17,7 @@ author_profile: true
 
 ## Innovators & innovation policy in health care
 
-- **To Seek Program Accreditation, Innovation, or Both? – Examining the Interdependencies in Specialized Cancer Care**, with Tim Brand and Eva Goetjes, major revision requested
-
-- **The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg.
+**The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg.
 
 
 - - -
