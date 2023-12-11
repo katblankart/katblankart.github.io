@@ -13,7 +13,7 @@ author_profile: true
   
 - [**Blankart KE**, Lichtenberg FR. The Effects of Off-label Drug Use on Disability and Medical Expenditure. National Bureau of Economic Research; 2022.](https://www.nber.org/papers/w30440)
 
-- **Insurance Barriers and Inequalities in Health Care Access: Evidence from dual practice** with Eva Goetjes.
+- **Insurance Barriers and Inequalities in Health Care Access: Evidence from dual practice** with Eva Goetjes. Major revision requested.
 
 ## Innovators & innovation policy in health care
 
@@ -27,7 +27,7 @@ author_profile: true
 
 - **Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation.** with Sotiris Vandoros. Major revision requested.
 
-- **Online elicitation of Personal Utility Functions (OPUF): capturing health preferences on the subgroup and individual patient level**, with Paul Schneider, John Brazier, Ben van Hout, Nancy Devlin
+- **Online elicitation of Personal Utility Functions (OPUF): capturing health preferences on the subgroup and individual patient level**, with Paul Schneider, John Brazier, Ben van Hout, Nancy Devlin. Major revision requested.
 
 - [**Stakeholder Participation in Regulatory Decision-Making**, with Victoria Lauenroth and Tom Stargardt](https://journals.aom.org/doi/10.5465/AMBPP.2018.11748abstract), please email for the working paper.
 
