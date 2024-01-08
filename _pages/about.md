@@ -10,11 +10,9 @@ redirect_from:
 
 
 
-I am a business economist with interests in health economics and health care management. I am assistant professor in Empirical Health Economics at the [Faculty of Economics and Business Administration](https://www.wiwi.uni-due.de/en/homepage/) at the [University of Duisburg-Essen](https://www.uni-due.de/) in Essen, Germany. I am a full member of the [CINCH Health Economics Research Center](https://cinch.uni-due.de/) where I am the head of the junior research group [EACH](https://cinch.uni-due.de/research/junior-research-groups/each-empirical-analysis-of-competition-in-health-care-markets/). I am also a fellow of the [Leibniz Science Campus Ruhr](https://lscr.rwi-essen.de/en/) and affiliate of the [Hamburg Center of Health Economics](https://www.hche.uni-hamburg.de/ueberuns/personen/affiliates.html).
+I am a business economist with interests in health economics, polixy and health care management. I am leading the team of health economics and policy at the [School of Health Professions ](https://www.bfh.ch/health-professions/en/) at the [Bern University of Applied Sciences](https://www.bfh.ch/en/) in Essen, Germany. I am a full member of the [CINCH Health Economics Research Center](https://cinch.uni-due.de/) where I am the head of the junior research group [EACH](https://cinch.uni-due.de/research/junior-research-groups/each-empirical-analysis-of-competition-in-health-care-markets/). I am also a fellow of the [Leibniz Science Campus Ruhr](https://lscr.rwi-essen.de/en/) and affiliate of the [Hamburg Center of Health Economics](https://www.hche.uni-hamburg.de/ueberuns/personen/affiliates.html).
 
-My institutional websites at [University of Duisburg-Essen](https://www.hcm.wiwi.uni-due.de/en/team/katharina-blankart/) and [CINCH](https://cinch.uni-due.de/team/full-members/jun-prof-dr-katharina-blankart-mbr/).
-
-I obtained my PhD (Dr. oec. publ.) in Business Administration in 2012 from [Ludwig-Maximilans-University](https://www.en.uni-muenchen.de/index.html), [Munich School of Management](https://www.en.bwl.uni-muenchen.de/index.html), Munich, Germany. Between 2012 and 2016, I was Post-Doc at [Hamburg Center of Health Economics](https://lscr.rwi-essen.de/en/), [Universität Hamburg](https://www.uni-hamburg.de/en.html), Germany and head of a junior research group on pharmacoeconomics. In the academic year 2015/2016, I have been visiting researcher at [Columbia Business School](https://home.gsb.columbia.edu/), Columbia University, NY, USA.
+I obtained my PhD (Dr. oec. publ.) in Business Administration in 2012 from [Ludwig-Maximilans-University](https://www.en.uni-muenchen.de/index.html), [Munich School of Management](https://www.en.bwl.uni-muenchen.de/index.html), Munich, Germany. Between 2012 and 2016, I was Post-Doc at [Hamburg Center of Health Economics](https://lscr.rwi-essen.de/en/), [Universität Hamburg](https://www.uni-hamburg.de/en.html), Germany and head of a junior research group on pharmacoeconomics. In the academic year 2015/2016, I have been visiting researcher at [Columbia Business School](https://home.gsb.columbia.edu/), Columbia University, NY, USA. From 2016 to 2023, I was assistant professor of empirical health economics at [University of Duisburg-Essen](https://www.hcm.wiwi.uni-due.de/en/team/katharina-blankart/) and CINCH Health Eonomics Research Center.
 
 
 
@@ -25,11 +23,8 @@ My research is in the areas of health and innovation. I study the institutional 
 
 Highlights & news
 -------
-- **[01/2023]**: Our working paper "The Effects of Off-label Drug Use on Disability and Medical Expenditure" was covered in a column at [Voxeu.org / CEPR](https://cepr.org/voxeu/columns/label-use-medicines-healthcare-use-and-disability) and [ITIF.org](https://itif.org/publications/2023/01/25/how-off-label-use-of-medicines-drives-health-care-use-and-disability/)
-- **[01/2023]**: I provided a short statement about wasting vaccine doses during the Covid-19 Pandemic in German to [BR Faktenfuchs](https://www.br.de/nachrichten/deutschland-welt/faktenfuchs-rund-36-millionen-corona-impfdosen-abgelaufen,TTmO7lm).
-- **[08/2022]**: A new article was released that compares availability of medicines in the US and Germany in [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755).
-- **[06/2022]**: I presented a new study on the effect of off-label drug use on disability and health care use in a panel of *Pharmaceutical Innovation, Drug Use and Health Outcomes* at the University of Basel. I will present this study in the upcoming weeks at multiple occasions.
-- **[04/2022]**: I was elected as member of the extended board of the German Health Economics Association [Deutsche Gesellschaft für Gesundheitsökonomie](https://www.dggoe.de/).
+
+Please check my LinkedIn and Bluesky profiles for updates.
 
 
 

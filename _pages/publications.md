@@ -12,20 +12,17 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-Tim Brand, Eva Goetjes, **Katharina Blankart**. To Seek Program Accreditation, Innovation, or Both? – Examining the Interdependencies in Specialized Cancer Care, Schmalenbach Journal of Business Research, accepted August 2023.
+[Schneider P, **Blankart K**, Brazier J, Hout B van, Devlin N. Using the Online Elicitation of Personal Utility Functions (OPUF) approach to derive a patient-based EQ-5D-5L value set: a study in 122 patients with rheumatic diseases from Germany. Value in Health (Online First)](https://www.valueinhealthjournal.com/article/S1098-3015(23)06242-3/fulltext)
+
+[Brand T, Goetjes E, Blankart K. To Seek Program Accreditation, Innovation, or Both?—Examining the Interdependencies in High-Reliability Health Care Organizations. Schmalenbach J Bus Res](https://doi.org/10.1007/s41471-023-00168-w)
 
 [Kurte MS, **Blankart KE**. Policy as a strategy to innovate in health care? A content analysis of innovation policies in Germany, 1994–2017. The International Journal of Health Planning and Management. 2023](  https://onlinelibrary.wiley.com/doi/abs/10.1002/hpm.3692)
 
-
 [**Blankart K**, Naci H, Chandra A. Availability of New Medicines in the US and Germany From 2004 to 2018. JAMA Network Open. 2022 Aug 30;5(8):e2229231.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795755)
 
-[Birkner B, **Blankart KE**. The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany. Value in Health 2022](https://www.sciencedirect.com/science/article/pii/S1098301522001474)
+[Birkner B, **Blankart KE**. The effect of biosimilar prescription targets for erythropoiesis-stimulating agents on physicians’ prescribing behaviour in Germany. Value in Health 2022](https://www.sciencedirect.com/science/article/pii/S1098301522001474) [Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
 
-[Data Availability and Provenance Statements.](https://osf.io/dn9uy/?view_only=f346d8dcc80e4dc1b18b22094c0c8278).
-
-[**Blankart KE**, Felder S. Do Medicine Shortages Reduce Access and Increase Pharmaceutical Expenditure? A Retrospective Analysis of Switzerland 2015-2020. Value in Health. 2022](https://www.sciencedirect.com/science/article/pii/S1098301522000535)
-
-[Data Preparation and Analysis Codes.](https://osf.io/z57vg/?view_only=b8548abd78e743c0982c66289923966f)
+[**Blankart KE**, Felder S. Do Medicine Shortages Reduce Access and Increase Pharmaceutical Expenditure? A Retrospective Analysis of Switzerland 2015-2020. Value in Health. 2022](https://www.sciencedirect.com/science/article/pii/S1098301522000535) [Data Preparation and Analysis Codes.](https://osf.io/z57vg/?view_only=b8548abd78e743c0982c66289923966f)
 
 [Vadia R, **Blankart K**. Regional Innovation Systems of Medical Technology: REGION. 2021 Sep 27;8(2):57–81.](https://openjournals.wu-wien.ac.at/ojs/index.php/region/article/view/352) [Abstract & Supplementary Files](https://osf.io/q537u/?view_only=3a4d739830a24d559a390f018a079040) ; [EuHEa 2020 video presentation, starts at about 00:12:30](https://www.youtube.com/watch?v=HVrSGqCRAkA&feature=youtu.be) ; [Expert discussion by Giovanni Fattore, starts at about 00:08:00](https://www.youtube.com/watch?v=iAnmZiD85-Y&feature=youtu.be).
 

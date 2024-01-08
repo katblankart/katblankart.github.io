@@ -27,9 +27,12 @@ author_profile: true
 
 - **Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation.** with Sotiris Vandoros. Major revision requested.
 
-- **Online elicitation of Personal Utility Functions (OPUF): capturing health preferences on the subgroup and individual patient level**, with Paul Schneider, John Brazier, Ben van Hout, Nancy Devlin. Major revision requested.
 
-- [**Stakeholder Participation in Regulatory Decision-Making**, with Victoria Lauenroth and Tom Stargardt](https://journals.aom.org/doi/10.5465/AMBPP.2018.11748abstract), please email for the working paper.
+
+
+## Deceased papers
+
+- [**Stakeholder Participation in Regulatory Decision-Making**, with Victoria Lauenroth and Tom Stargardt](https://journals.aom.org/doi/10.5465/AMBPP.2018.11748abstract).
 
 
 - - -
