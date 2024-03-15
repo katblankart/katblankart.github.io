@@ -13,11 +13,10 @@ author_profile: true
   
 - [**Blankart KE**, Lichtenberg FR. The Effects of Off-label Drug Use on Disability and Medical Expenditure. National Bureau of Economic Research; 2022.](https://www.nber.org/papers/w30440)
 
-- **Insurance Barriers and Inequalities in Health Care Access: Evidence from dual practice** with Eva Goetjes. Major revision requested.
 
 ## Innovators & innovation policy in health care
 
-**The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg.
+**The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg. (under review)
 
 
 - - -
@@ -26,6 +25,7 @@ author_profile: true
 ## Regulation and market design of pharmaceutical and biotechnological markets 
 
 - **Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation.** with Sotiris Vandoros. Major revision requested.
+- 
 
 
 

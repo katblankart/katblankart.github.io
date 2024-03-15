@@ -12,7 +12,10 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-[Schneider P, **Blankart K**, Brazier J, Hout B van, Devlin N. Using the Online Elicitation of Personal Utility Functions (OPUF) approach to derive a patient-based EQ-5D-5L value set: a study in 122 patients with rheumatic diseases from Germany. Value in Health (Online First)](https://www.valueinhealthjournal.com/article/S1098-3015(23)06242-3/fulltext)
+Goetjes E, **Blankart K**. Insurance barriers and inequalities in health care access: evidence from dual practice. Health Economics Review. 2024 (in press)
+
+
+[Schneider P, Blankart K, Brazier J, Hout B van, Devlin N. Using the Online Elicitation of Personal Utility Functions Approach to Derive a Patient-Based 5-Level Version of EQ-5D Value Set: A Study in 122 Patients With Rheumatic Diseases From Germany. Value in Health. 2024 Mar 1;27(3):376–82.](https://doi.org/10.1016/j.jval.2023.12.009)
 
 [Brand T, Goetjes E, Blankart K. To Seek Program Accreditation, Innovation, or Both?—Examining the Interdependencies in High-Reliability Health Care Organizations. Schmalenbach J Bus Res](https://doi.org/10.1007/s41471-023-00168-w)
 
