@@ -12,6 +12,8 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+[**Blankart KE**, Vandoros S. Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation. PLOS ONE. 2024 May 2;19(5):e0301716.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301716) 
+
 [Goetjes E, **Blankart KE**. Insurance barriers and inequalities in health care access: evidence from dual practice. Health Econ Rev. 21. März 2024;14(1):23.](https://doi.org/10.1186/s13561-024-00500-y)
 
 [Schneider P, Blankart K, Brazier J, Hout B van, Devlin N. Using the Online Elicitation of Personal Utility Functions Approach to Derive a Patient-Based 5-Level Version of EQ-5D Value Set: A Study in 122 Patients With Rheumatic Diseases From Germany. Value in Health. 2024 Mar 1;27(3):376–82.](https://doi.org/10.1016/j.jval.2023.12.009)
