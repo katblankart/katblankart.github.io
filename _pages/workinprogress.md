@@ -16,16 +16,13 @@ author_profile: true
 
 ## Innovators & innovation policy in health care
 
-**The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg. (under review)
+**The Local Influence of Knowledge Production, Pioneers, and Star Researchers on Technology Adoption - Evidence from Cardiovascular Medical Technology**, with Meilin Möllenkamp and Jonas Schreyögg.
 
 
 - - -
 
 
-## Regulation and market design of pharmaceutical and biotechnological markets 
-
-**Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation.** with Sotiris Vandoros. (conditional accept, PLOS one)
-
+<!--## Regulation and market design of pharmaceutical and biotechnological markets-->
 
 
 
