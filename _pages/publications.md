@@ -12,13 +12,16 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+[Gillner S, **Blankart KE**, Bourgeois FT, Stern AD, Blankart CR. The Challenges of Regulatory Pluralism. Health Policy. 2024 Sep 12;105164.](https://www.sciencedirect.com/science/article/pii/S016885102400174X)
+
+
 [**Blankart KE**, Vandoros S. Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation. PLOS ONE. 2024 May 2;19(5):e0301716.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301716) 
 
 [Goetjes E, **Blankart KE**. Insurance barriers and inequalities in health care access: evidence from dual practice. Health Econ Rev. 21. März 2024;14(1):23.](https://doi.org/10.1186/s13561-024-00500-y)
 
 [Schneider P, Blankart K, Brazier J, Hout B van, Devlin N. Using the Online Elicitation of Personal Utility Functions Approach to Derive a Patient-Based 5-Level Version of EQ-5D Value Set: A Study in 122 Patients With Rheumatic Diseases From Germany. Value in Health. 2024 Mar 1;27(3):376–82.](https://doi.org/10.1016/j.jval.2023.12.009)
 
-[Brand T, Goetjes E, Blankart K. To Seek Program Accreditation, Innovation, or Both?—Examining the Interdependencies in High-Reliability Health Care Organizations. Schmalenbach J Bus Res](https://doi.org/10.1007/s41471-023-00168-w)
+[Brand T, Goetjes E, **Blankart K**. To Seek Program Accreditation, Innovation, or Both?—Examining the Interdependencies in High-Reliability Health Care Organizations. Schmalenbach J Bus Res](https://doi.org/10.1007/s41471-023-00168-w)
 
 [Kurte MS, **Blankart KE**. Policy as a strategy to innovate in health care? A content analysis of innovation policies in Germany, 1994–2017. The International Journal of Health Planning and Management. 2023](  https://onlinelibrary.wiley.com/doi/abs/10.1002/hpm.3692)
 
