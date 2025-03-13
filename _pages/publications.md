@@ -12,6 +12,9 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+[**Blankart KE**, Lichtenberg FR. Prevalence and relationship with health of off-label and contraindicated drug use in the United States: a cross-sectional study. Journal of Pharmaceutical Policy and Practice. 2025 Dec 31;18(1):2472221.](https://doi.org/10.1080/20523211.2025.2472221)
+
+
 [Gillner S, **Blankart KE**, Bourgeois FT, Stern AD, Blankart CR. The Challenges of Regulatory Pluralism. Health Policy. 2024 Sep 12;105164.](https://www.sciencedirect.com/science/article/pii/S016885102400174X)
 
 
