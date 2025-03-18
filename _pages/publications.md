@@ -74,6 +74,9 @@ author_profile: true
 
 [**Fischer KE**, Grosse SD, Rogowski WH. The role of health technology assessment in coverage decisions on newborn screening. International Journal of Technology Assessment in Health Care. 2011;27(04):313–21.](https://doi.org/10.1017/S0266462311000468) 
 
+## Working papers
+[**Blankart KE**, Lichtenberg FR. The Effects of Off-label Drug Use on Disability and Medical Expenditure. National Bureau of Economic Research; 2022.](https://www.nber.org/papers/w30440)
+
 ## Book chapters
 
 [Blankart K. Fallstudie 11: Der strategische Kampf: Wettbewerbsfähigkeit durch die europäische Waren- und Dienstleistungsfreiheit. In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 107–18.](https://doi.org/10.1007/978-3-658-31068-4_12)
