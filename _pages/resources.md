@@ -5,6 +5,10 @@ permalink: /resources/
 author_profile: true
 ---
 
+## Prompt Engineering in Health Economics - Miniworkshop
+
+Link to page
+
 ## Reproducible research in health care and elsewhere
 
 ### A concise guide to reproducible research using secondary data
