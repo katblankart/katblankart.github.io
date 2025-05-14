@@ -13,7 +13,7 @@ editor_options:
 ## **How to Craft Effective Prompts: Key Principles**
 
 | **Category**                  | **Guidelines**                                                                                    |
-|----------------------------------|------------------------------------|
+|-------------------------------|---------------------------------------------------------------------------------------------------|
 | **Clarity and Understanding** | \- Use delimiters for clarity (e.g., `### text ###`)                                              |
 |                               | \- Consider providing examples for correct output (few-shot prompting)                            |
 | **Specificity and Detailing** | \- Specify desired output format                                                                  |
@@ -37,7 +37,7 @@ editor_options:
 **Acting as [ROLE] perform [TASK] in [FORMAT]: insert unique data**
 
 | **Role**                          | **Task / Aim**                 | **Format**                      |
-|------------------------|------------------------|------------------------|
+|-----------------------------------|--------------------------------|---------------------------------|
 | • Expert Science Writer           | • Formulate research questions | • PDF                           |
 | • Michael Drummond                | • Write an abstract            | • Bullet points                 |
 | • Professor XYZ                   | • Analysis                     | • Summary                       |
@@ -45,7 +45,7 @@ editor_options:
 | • PhD student in [specific field] | • Draft references             | • (MLA, APA, Chicago) citations |
 
 | **Role**                          | **Task / Aim**                           | **Format**                      |
-|------------------------|------------------------|------------------------|
+|-----------------------------------|------------------------------------------|---------------------------------|
 | • Expert Science Writer           | • Check compliance with CHEERS checklist | • Table / Chart                 |
 | •Health economist                 | • Write an abstract                      | • Summary text                  |
 | • Professor XYZ                   | • Analysis                               | • Summary                       |
@@ -58,7 +58,7 @@ SNF
 # 
 
 |                             | **Task/Aim**                                     | **Specific Examples**                                                                                                                                                   |
-|------------------------|------------------------|------------------------|
+|-----------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Critical Review**         | Evaluating and improving research materials      | • Review of work packages for clarity and alignment with reviewer comments<br>• Assessment of structure and methodology<br>• Identification of gaps in research framing |
 | **Structural Improvement**  | Reorganizing content for better flow and clarity | • Restructuring study descriptions<br>• Adding clear research gaps and contributions<br>• Creating logical connections between studies                                  |
 | **Methodological Guidance** | Strengthening research approaches                | • Suggesting classification methods for affordability<br>• Enhancing DiD methodology<br>• Refining text mining approach                                                 |
