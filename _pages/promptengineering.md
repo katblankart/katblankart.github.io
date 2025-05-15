@@ -10,6 +10,39 @@ editor_options:
 
 # Prompt Engineering in Health Economics - Mini session
 
+## Purposes of prompt engineering in research
+
+| Category  | Task  | Usefulness |
+| --- | --- | --- |
+| Ideation | Brainstorming  | 3
+|  | Evaluating ideas | 2 |
+|  | Providing counterarguments | 3 |
+| Writing | Synthesizing text |  3 |
+|  | Editing text | 3 |
+|  | Evaluating text | 3 |
+|  | Generating catchy titles & headlines | 3 |
+|  | Generating tweets to promote a paper | 3 |
+| Background Research | Summarizing Text | 3
+|  | Literature Research |  1
+|  | Formatting References | 3
+|  | Translating Text | 3
+|  | Explaining Concepts |  2
+| Coding | Writing code | 2
+|  | Explaining code | 2
+|  | Translating code | 3
+|  | Debugging code |  2 |
+| Data analysis | Extracting data from text |  |
+|  | Reformatting data | 3 |
+|  | Classifying and scoring text | 2 |
+|  | Extracting sentiment  | 2 |
+|  | Simulating human subjects | 2 |
+| Math | Setting up models  | 2 |
+|  | Deriving equations | 1 |
+|  | Explaining models | 1 |
+| The third column reports subjective ratings of LLM capabilities as of Feb 1, 2023: 1 = experimental; results are inconsistent and require signicant human oversight; 2 = useful; requires oversight but will likely save you time; 3 = highly useful; incorporating these into your workow will save you time |  |  |
+
+: Summary of LLM capabilities and rating of usefulness as of Feb 1, 2023 ([Source: Korinek (2023)](https://www.nber.org/system/files/working_papers/w30957/w30957.pdf))
+
 ## **How to Craft Effective Prompts: Key Principles**
 
 | **Category**                  | **Guidelines**                                                                                    |
@@ -22,8 +55,8 @@ editor_options:
 | **Context and Relevance**     | \- Define Role (e.g., "You are a translator.")                                                    |
 |                               | \- Audience and Purpose (e.g., "Translate for an Italian audience looking for fresh products.")   |
 | **Step-by-Step Guidance**     | \- Include Step-by-Step Instructions (e.g., "First, translate to Italian. Next, make it catchy.") |
-| **Conditioning for Accuracy** | \- Condition the model's responses on the context to get more accurate results                    |
-|                               | (e.g., "Base your translation on the following dictionary where appropriate: `{dictionary}`")     |
+| **Conditioning for Accuracy** | \- Condition the model's responses on the context to get more accurate results (e.g., "Base your translation on the following dictionary where appropriate: `{dictionary}`")                 |
+
 
 ## Steps to Create Effective ChatGPT Prompt
 
@@ -44,18 +77,8 @@ editor_options:
 | • Editor from [target] journal    | • Condense lists               | • Table/Chart                   |
 | • PhD student in [specific field] | • Draft references             | • (MLA, APA, Chicago) citations |
 
-| **Role**                          | **Task / Aim**                           | **Format**                      |
-|-----------------------------------|------------------------------------------|---------------------------------|
-| • Expert Science Writer           | • Check compliance with CHEERS checklist | • Table / Chart                 |
-| •Health economist                 | • Write an abstract                      | • Summary text                  |
-| • Professor XYZ                   | • Analysis                               | • Summary                       |
-| • Reviewer                        | • Condense lists                         | • Table/Chart                   |
-| • PhD student in [specific field] | • Draft references                       | • (MLA, APA, Chicago) citations |
 
-Example of tasks performed to revise a research proposal submitted to
-SNF
-
-# 
+## Example of tasks performed to revise a research proposal submitted to SNSF
 
 |                             | **Task/Aim**                                     | **Specific Examples**                                                                                                                                                   |
 |-----------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -72,17 +95,17 @@ SNF
 
 # Prompt Engineering - Health Economics Examples and Adaptations
 
-## Prompt examples
+## Prompt typology examples
 
-### **Zero-Shot Learning**:
+### **Zero-Shot Learning**
 
 This involves giving the AI a task without any prior examples. You
 describe what you want in detail, assuming the AI has no prior knowledge
 of the task.
 
-> Prompt: Explain what a quality adjusted life year is.
+> *Prompt: Explain what a quality adjusted life year is.*
 
-<aside>
+````
 
 💡
 
@@ -120,83 +143,66 @@ Institute for Health and Care Excellence (NICE) and many other health
 technology assessment agencies worldwide to make evidence-based
 decisions about healthcare spending.
 
-</aside>
+````
 
-### **One-Shot Learning**:
+### **One-Shot Learning**
 
 You provide one example along with your prompt. This helps the AI
 understand the context or format you're expecting.
 
-> Prompt: "The Visual Analogue Scale (VAS) is a measurement tool used to
-> capture subjective experiences like quality of life.
+> *Prompt: "The Visual Analogue Scale (VAS) is a measurement tool used to
+> capture subjective experiences like quality of life.*
 >
-> Explain what Quality Adjusted Life Year is in this context."
+> *Explain what Quality Adjusted Life Year is in this context."*
 
-<aside>
+```
 
 💡
 
-In the context of the Visual Analogue Scale (VAS), Quality Adjusted Life
-Years (QALYs) represent a practical application of how subjective
-quality-of-life measurements can be translated into quantifiable health
-economic outcomes.
+In the context of the Visual Analogue Scale (VAS), Quality Adjusted Life Years (QALYs) represent a practical application of how subjective quality-of-life measurements can be translated into quantifiable health economic outcomes.
 
-When the VAS is used to measure quality of life, it typically generates
-a score between 0 and 100 (or 0 and 1 when normalized). This score can
-be directly converted to the utility weight needed to calculate QALYs:
+When the VAS is used to measure quality of life, it typically generates a score between 0 and 100 (or 0 and 1 when normalized). This score can be directly converted to the utility weight needed to calculate QALYs:
 
 1.  The VAS score is normalized to a 0-1 scale (dividing by 100 if
     necessary)
 2.  This utility weight represents the quality component of the QALY
-3.  The utility weight is then multiplied by the time period to
-    calculate QALYs
+3.  The utility weight is then multiplied by the time period to     calculate QALYs
 
-For example, if a patient rates their quality of life as 70 on a 0-100
-VAS, this translates to a utility weight of 0.7. If they live for 2
-years at this health state, this equals 1.4 QALYs (0.7 × 2).
+For example, if a patient rates their quality of life as 70 on a 0-100 VAS, this translates to a utility weight of 0.7. If they live for 2 years at this health state, this equals 1.4 QALYs (0.7 × 2).
 
-The VAS provides one method for determining the quality weighting in
-QALYs, though there are other approaches like:
+The VAS provides one method for determining the quality weighting in QALYs, though there are other approaches like:
 
 -   Time Trade-Off (TTO)
 -   Standard Gamble (SG)
 -   Health state classification systems like EQ-5D or SF-6D
 
-When researchers or health economists use the VAS specifically for QALY
-calculations, they often:
+When researchers or health economists use the VAS specifically for QALY calculations, they often:
 
 -   Ensure the scale has clear anchors (0 = death, 100 = perfect health)
 -   Collect measurements at multiple time points to track changes
--   Use these measurements to evaluate the impact of interventions on
-    both quality and quantity of life
+-   Use these measurements to evaluate the impact of interventions on     both quality and quantity of life
 
-The combination of VAS measurements with survival data allows for
-cost-utility analyses where interventions can be compared based on their
+The combination of VAS measurements with survival data allows for cost-utility analyses where interventions can be compared based on their
 cost per QALY gained.
 
-</aside>
+````
 
-### **Few-Shot Learning**:
+### **Few-Shot Learning**
 
-This involves providing a few examples (usually 2--5) to help the AI
-understand the pattern or style of the response you're looking for.
+This involves providing a few examples (usually 2--5) to help the AI understand the pattern or style of the response you're looking for.
 
-> Prompt: The Visual Analogue Scale (VAS) is a measurement tool used to
-> capture subjective experiences like quality of life, while the EQ-5D
-> is a standardized instrument by theEuroQol Group for measuring
-> health-related quality of life. Explain what Quality Adjusted Life
-> Year is in this context.
+> *Prompt: The Visual Analogue Scale (VAS) is a measurement tool used to*
+> *capture subjective experiences like quality of life, while the EQ-5D*
+> *is a standardized instrument by theEuroQol Group for measuring*
+> *health-related quality of life. Explain what Quality Adjusted Life*
+> *Year is in this context.*
 
-<aside>
+```
 
 💡
 
-In the context of the Visual Analogue Scale (VAS) and EQ-5D, Quality
-Adjusted Life Years (QALYs) serve as the bridge that transforms these
-subjective quality of life measurements into quantitative values for
-health economic analysis.
-
-Both the VAS and EQ-5D provide methods to derive the crucial utility
+In the context of the Visual Analogue Scale (VAS) and EQ-5D, Quality Adjusted Life Years (QALYs) serve as the bridge that transforms these subjective quality of life measurements into quantitative values for
+health economic analysis. Both the VAS and EQ-5D provide methods to derive the crucial utility
 weights (health state values) needed for QALY calculations:
 
 1.  **Using VAS for QALYs:** When a standalone VAS is used, a patient's
@@ -234,43 +240,27 @@ incremental cost-effectiveness ratios (ICERs) -- the additional cost per
 additional QALY gained -- which inform resource allocation decisions in
 healthcare systems.
 
-</aside>
+```
 
 ### **Complex Few-Shot Learning for Data Tagging**
 
-> Prompt: Classify the text after \*\*\* using the classification
-> definition after +++ and examples for classification after ###. Create
-> a comma-separated dataset.
-
-> +++ { "health_benefit": "Statements about effectiveness, weight loss
-> results, health improvements, or positive physical outcomes from the
-> medication.",
-
-> "adverse_events": "Reports of side effects, negative physical
-> reactions, contraindications, or other unwanted physiological impacts
-> of the medication.",
-
-> "mental_health": "Expressions of emotions, mood changes, psychological
-> effects, or mental states related to taking the medication.",
-
-> "irrelevant": "General statements unrelated to health benefits,
-> adverse events, or mental health impacts of the medication."}
+> Prompt: Classify the text after \*\*\* using the classification > definition after +++ and examples for classification after ###. Create > a comma-separated dataset.
+> +++ { "health_benefit": "Statements about effectiveness, weight loss > results, health improvements, or positive physical outcomes from the > medication.",
+> "adverse_events": "Reports of side effects, negative physical > reactions, contraindications, or other unwanted physiological impacts > of the medication.",
+> "mental_health": "Expressions of emotions, mood changes, psychological > effects, or mental states related to taking the medication.", 
+> "irrelevant": "General statements unrelated to health benefits, adverse events, or mental health impacts of the medication."}
 
 > **Examples:**
 
 > ### 
 
-> *1. Example* {"text": "I lost 18 pounds in the first month of taking
-> this medication.", "answer": "health_benefit"}
+> *1. Example* {"text": "I lost 18 pounds in the first month of taking this medication.", "answer": "health_benefit"}
 
-> *2. Example* {"text": "The pill caused severe nausea and I couldn't
-> keep food down for three days.", "answer": "adverse_events"}
+> *2. Example* {"text": "The pill caused severe nausea and I couldn't keep food down for three days.", "answer": "adverse_events"}
 
-> *3. Example* {"text": "I felt so much more confident and happy after
-> finally seeing results on the scale.", "answer": "mental_health"}
+> *3. Example* {"text": "I felt so much more confident and happy after finally seeing results on the scale.", "answer": "mental_health"}
 
-> *4. Example* {"text": "The pharmacy kept being out of stock and I had
-> to drive across town.", "answer": "irrelevant"}
+> *4. Example* {"text": "The pharmacy kept being out of stock and I had to drive across town.", "answer": "irrelevant"}
 
 > ### 
 
@@ -332,7 +322,7 @@ Source: selected ratings from
 <https://www.drugs.com/comments/semaglutide/wegovy-for-obesity.html>,
 last accessed 09.05.2025
 
-<aside>
+```
 
 💡
 
@@ -359,7 +349,7 @@ Looking at each rating carefully:
 
 Here's the comma-separated dataset with classifications:
 
-</aside>
+```
 
 ```         
 "I have been taking Wegovy for 1 week and 2 days. Only had the 0.25 dosage. I have had no side effects and I have lost 8 lbs. I am hoping as I increase the dosage I remain free of side effects and the weight continues to fall off. I will continue to leave feedback so people can see how it is working and hopefully it will help them make a decision. I almost didn't go through with the first injection because of all the negative reviews. I am glad that I did give it a try. If I start to get nasty side effects, I will ask my doctor if I can stay at the dosage prior where there were none. I am wanting to lose 100 lbs. I started at 250 @ 5'4\". So far, I am extremely happy!",health_benefit,mental_health
@@ -375,18 +365,12 @@ Here's the comma-separated dataset with classifications:
 
 ### Complex Prompt to Understand a New Topic
 
-Rising health care costs in Switzerland:
+Rising health care costs in Switzerland, Federal Office for Statistics Publication:
 <https://www.bfs.admin.ch/bfs/de/home/aktuell/medienmitteilungen.assetdetail.34788155.html>
 
-> Prompt Step 1: I am a health economics researcher and was made aware
-> of the annual publication of the health care costs in Switzerland that
-> are published in spring by the office of research. The summary of the
-> findings for 2023 are provided below after ###.
+> Prompt Step 1: I am a health economics researcher and was made aware of the annual publication of the health care costs in Switzerland that are published in spring by the office of research. The summary of the findings for 2023 are provided below after ###.
 
-> Based on the text, generate 10 mini-questions about potential causes
-> for changes in health care costs in Switzerland. Ensure that questions
-> cover what, why, how, and implications related to the topic to ensure
-> a comprehensive initial overview.
+> Based on the text, generate 10 mini-questions about potential causes for changes in health care costs in Switzerland. Ensure that questions cover what, why, how, and implications related to the topic to ensure a comprehensive initial overview.
 
 > ### 
 
@@ -491,7 +475,7 @@ Based on the text about Switzerland's healthcare costs in 2023, here are
 > the questions. Use thematic analysis principles, focusing on patterns
 > and concepts that recur across the initial questions.
 
-<aside>
+```
 
 💡
 
@@ -512,9 +496,9 @@ Key recurring themes across the questions include:
 5.  **Service delivery models** - Questions about outpatient vs.
     inpatient care proportions and home care services
 
-</aside>
+```
 
-<aside>
+```
 
 💡
 
@@ -538,13 +522,13 @@ This structure provides a balanced framework that captures the key
 dimensions of the healthcare cost changes while maintaining conceptual
 clarity.
 
-</aside>
+```
 
 > Prompt Step 3: Cluster the initial questions into themes based on the
 > identified patterns. Aim for distinct yet comprehensive thematic
 > cluster
 
-<aside>
+```
 
 💡
 
@@ -592,14 +576,11 @@ clarity.
     costs be related to post-pandemic healthcare utilization patterns or
     changes in testing protocols?
 
-</aside>
+```
 
-> Prompt Step 4: Review each theme cluster to identify gaps or emerging
-> insights. Add two more questions for each theme to ensure thorough
-> coverage. For each added question, provide a rationale based on
-> identified gaps or new insights.
+> Prompt Step 4: Review each theme cluster to identify gaps or emerging insights. Add two more questions for each theme to ensure thorough coverage. For each added question, provide a rationale based on identified gaps or new insights.
 
-<aside>
+```
 
 💡
 
@@ -711,18 +692,11 @@ clarity.
         structural changes in care delivery models resulting from the
         pandemic beyond just spending categories.
 
-</aside>
+```
 
-Prompt Step 5: Answer each question in 200 words using a specific
-template. Tailor the template slightly for questions (e.g., theoretical
-vs. practical) to allow nuanced responses.The template should cover why
-the question is important, what information or actions are needed, and
-which methods will be used, including examples or analogies. Emphasize
-reasoning before providing the answer, using a structured step-by-step
-approach.
+> Prompt Step 5: Answer each question in 200 words using a specifictemplate. Tailor the template slightly for questions (e.g., theoretical vs. practical) to allow nuanced responses.The template should cover why the question is important, what information or actions are needed, and which methods will be used, including examples or analogies. Emphasize reasoning before providing the answer, using a structured step-by-step approach.
 
-<aside>
-
+```
 💡
 
 # Sector-specific Cost Drivers
@@ -1415,13 +1389,27 @@ transformation suggests the need for payment model evolution that
 supports appropriate care channel selection rather than creating
 artificial incentives based on historical delivery patterns.
 
-</aside>
+```
 
 ### Chain-of-Thoughts
 
-see examples provided by Roman Rietsche
+[see examples provided by Roman Rietsche](https://romanrietsche.github.io/talk/bfh_research/#chain-of-thoughts-cot)
 
-# Reference Collection
+## Benefits and risks of prompt engineering
+
+# Benefits and Risks of LLMs for Research
+
+| Benefits | Risks |
+|---------|-------|
+| **Language Equity** - Helps non-native English speakers express ideas more precisely and overcome language barriers | **Hallucination & Misinformation** - Can create convincing but false information that even experts might believe |
+| **Efficiency** - Saves time during research processes, allowing researchers to focus on more creative tasks | **Inaccuracy** - May produce incorrect conclusions that less experienced researchers cannot adequately verify |
+| **Routine Task Assistance** - Handles mechanical tasks like data cleaning, freeing researchers for higher-level work | **Plagiarism Concerns** - Risk of inadvertent plagiarism due to difficulty tracking LLM source information |
+| **Literature Review Support** - Eases time-consuming processes of searching and analyzing existing research | **Data Fabrication** - May lead to reporting results based on synthetic data without actual experimentation |
+| **Editing Support** - Assists with rephrasing, rewriting, condensation, and language refinement | **Decreasing Creativity** - Could flatten research to "average" and reduce original thinking |
+| **Overcoming Writer's Block** - Helps researchers when stuck or facing a blank page | **Research Ecosystem Pollution** - May increase poor-quality papers and reduce overall scientific standards |
+| **Broadening Perspectives** - Acts as an "available colleague" to discuss ideas and get feedback | **Decreasing Diligence & Deskilling** - Risk of developing a "copy/paste attitude" and losing essential research skills |
+: Source. [Liao et al. 2024](https://arxiv.org/abs/2411.05025)
+# Additional references
 
 [Causal claims research
 assistant](https://cepr.org/voxeu/columns/leveraging-large-language-models-large-scale-information-retrieval-economics)
@@ -1429,4 +1417,3 @@ assistant](https://cepr.org/voxeu/columns/leveraging-large-language-models-large
 Types of prompts:
 [https://medium.com/\@amiraryani/8-types-of-prompt-engineering-5322fff77bdf](https://medium.com/@amiraryani/8-types-of-prompt-engineering-5322fff77bdf){.uri}
 
-Source: <https://romanrietsche.github.io/talk/bfh_research/>
