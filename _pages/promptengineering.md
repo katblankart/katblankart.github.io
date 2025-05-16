@@ -2,10 +2,8 @@
 layout: archive
 title: "Resources"
 permalink: /resources/prompts
-author_profile: true
-editor_options: 
-  markdown: 
-    wrap: 72
+author_profile: false
+
 ---
 
 # Prompt Engineering in Health Economics - Mini session
@@ -14,29 +12,29 @@ editor_options:
 
 | Category  | Task  | Usefulness |
 | --- | --- | --- |
-| Ideation | Brainstorming  | 3
+| **Ideation** | Brainstorming  | 3
 |  | Evaluating ideas | 2 |
 |  | Providing counterarguments | 3 |
-| Writing | Synthesizing text |  3 |
+| **Writing** | Synthesizing text |  3 |
 |  | Editing text | 3 |
 |  | Evaluating text | 3 |
 |  | Generating catchy titles & headlines | 3 |
 |  | Generating tweets to promote a paper | 3 |
-| Background Research | Summarizing Text | 3
+| **Background Research** | Summarizing Text | 3
 |  | Literature Research |  1
 |  | Formatting References | 3
 |  | Translating Text | 3
 |  | Explaining Concepts |  2
-| Coding | Writing code | 2
+| **Coding** | Writing code | 2
 |  | Explaining code | 2
 |  | Translating code | 3
 |  | Debugging code |  2 |
-| Data analysis | Extracting data from text |  |
+| **Data analysis** | Extracting data from text |  |
 |  | Reformatting data | 3 |
 |  | Classifying and scoring text | 2 |
 |  | Extracting sentiment  | 2 |
 |  | Simulating human subjects | 2 |
-| Math | Setting up models  | 2 |
+| **Math** | Setting up models  | 2 |
 |  | Deriving equations | 1 |
 |  | Explaining models | 1 |
 | The third column reports subjective ratings of LLM capabilities as of Feb 1, 2023: 1 = experimental; results are inconsistent and require signicant human oversight; 2 = useful; requires oversight but will likely save you time; 3 = highly useful; incorporating these into your workow will save you time |  |  |
@@ -281,7 +279,7 @@ healthcare systems.
 > lose 100 lbs. I started at 250 \@ 5'4". So far, I am extremely
 > happy!","10 / 10"}
 
-> {Rating: "6 months. -65 pounds. Hypertension gone. Pre-Diabetes gone.
+> **{Rating:** "6 months. -65 pounds. Hypertension gone. Pre-Diabetes gone.
 > Sleep apnea gone. Lower leg skin breakdown gone. Slow progress now. I
 > must fight the return of old eating habits. Wegovy is not for wimps.
 > But if you really want to lose weight, this is the way to go. This is
@@ -374,8 +372,8 @@ Rising health care costs in Switzerland, Federal Office for Statistics Publicati
 
 > ### 
 
-> **Die Gesundheitskosten stiegen 2023 um 2,4%**Herausgeber Bundesamt
-> für Statistik
+> **Die Gesundheitskosten stiegen 2023 um 2,4%**
+> Herausgeber Bundesamt für Statistik
 
 > **28.4.2025 - 2023 kostete das Schweizer Gesundheitswesen
 > 94 Milliarden Franken, 2,4% mehr als im Vorjahr. Das Gesundheitswesen
@@ -430,7 +428,7 @@ Rising health care costs in Switzerland, Federal Office for Statistics Publicati
 > Kantonen, übernommen. Die Gesundheitsausgaben der Haushalte stiegen
 > zwischen 2022 und 2023 um 4,7% an, jene der Kantone um 1,9%.
 
-<aside>
+```
 
 💡
 
@@ -469,7 +467,7 @@ Based on the text about Switzerland's healthcare costs in 2023, here are
     to post-pandemic healthcare utilization patterns or changes in
     testing protocols?
 
-</aside>
+```
 
 > Prompt Step 2: Determine an "optimal amount" of themes for clustering
 > the questions. Use thematic analysis principles, focusing on patterns
@@ -1395,9 +1393,8 @@ artificial incentives based on historical delivery patterns.
 
 [see examples provided by Roman Rietsche](https://romanrietsche.github.io/talk/bfh_research/#chain-of-thoughts-cot)
 
-## Benefits and risks of prompt engineering
+# Benefits and risks of prompt engineering
 
-# Benefits and Risks of LLMs for Research
 
 | Benefits | Risks |
 |---------|-------|
@@ -1409,11 +1406,11 @@ artificial incentives based on historical delivery patterns.
 | **Overcoming Writer's Block** - Helps researchers when stuck or facing a blank page | **Research Ecosystem Pollution** - May increase poor-quality papers and reduce overall scientific standards |
 | **Broadening Perspectives** - Acts as an "available colleague" to discuss ideas and get feedback | **Decreasing Diligence & Deskilling** - Risk of developing a "copy/paste attitude" and losing essential research skills |
 : Source. [Liao et al. 2024](https://arxiv.org/abs/2411.05025)
-# Additional references
 
-[Causal claims research
-assistant](https://cepr.org/voxeu/columns/leveraging-large-language-models-large-scale-information-retrieval-economics)
 
-Types of prompts:
-[https://medium.com/\@amiraryani/8-types-of-prompt-engineering-5322fff77bdf](https://medium.com/@amiraryani/8-types-of-prompt-engineering-5322fff77bdf){.uri}
+# Additional resources
+
+[Causal claims research assistant](https://cepr.org/voxeu/columns/leveraging-large-language-models-large-scale-information-retrieval-economics)
+
+[Types of prompts]([https://medium.com/\@amiraryani/8-types-of-prompt-engineering-5322fff77bdf](https://medium.com/@amiraryani/8-types-of-prompt-engineering-5322fff77bdf)
 
