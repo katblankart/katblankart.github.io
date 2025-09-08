@@ -48,8 +48,6 @@ Highlights & news
 
 -------
 
-
-
 Please check my LinkedIn and Bluesky profiles for updates.
 
 

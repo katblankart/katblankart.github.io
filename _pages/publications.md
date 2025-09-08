@@ -12,6 +12,8 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+Brand T & **Blankart KE**. Does access to quality accreditation improve health? - Patient-level evidence from German cancer care (in press, European Journal of Health Economics)
+
 [**Blankart KE**, Lichtenberg FR. Prevalence and relationship with health of off-label and contraindicated drug use in the United States: a cross-sectional study. Journal of Pharmaceutical Policy and Practice. 2025 Dec 31;18(1):2472221.](https://doi.org/10.1080/20523211.2025.2472221)
 
 
