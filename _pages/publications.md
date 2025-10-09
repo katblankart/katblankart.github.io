@@ -5,14 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 
 ## Peer-reviewed journal articles
 
-Brand T & **Blankart KE**. Does access to quality accreditation improve health? - Patient-level evidence from German cancer care (in press, European Journal of Health Economics)
+[Brand T, **Blankart KE**. Does access to quality accreditation improve health? - Patient-level evidence from German cancer care. Eur J Health Econ. online first](https://doi.org/10.1007/s10198-025-01833-z)
+
 
 [**Blankart KE**, Lichtenberg FR. Prevalence and relationship with health of off-label and contraindicated drug use in the United States: a cross-sectional study. Journal of Pharmaceutical Policy and Practice. 2025 Dec 31;18(1):2472221.](https://doi.org/10.1080/20523211.2025.2472221)
 
