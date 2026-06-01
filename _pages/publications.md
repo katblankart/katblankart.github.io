@@ -8,14 +8,15 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-[Brand T, **Blankart KE**. Does access to quality accreditation improve health? - Patient-level evidence from German cancer care. Eur J Health Econ. online first](https://doi.org/10.1007/s10198-025-01833-z)
+[Graf et al., Cost-Effectiveness of Home Treatment Compared to Inpatient Care in Child and Adolescent Psychiatry – Evidence from a Pilot Trial, Swiss Medical Weekly, 2026, in print]
+
+[Brand T, **Blankart K**. Does access to quality accreditation improve health? - Patient-level evidence from German cancer care. Eur J Health Econ. 2026 Apr 1;27(3):591–607. doi:10.1007/s10198-025-01833-z](https://doi.org/10.1007/s10198-025-01833-z)
 
 
 [**Blankart KE**, Lichtenberg FR. Prevalence and relationship with health of off-label and contraindicated drug use in the United States: a cross-sectional study. Journal of Pharmaceutical Policy and Practice. 2025 Dec 31;18(1):2472221.](https://doi.org/10.1080/20523211.2025.2472221)
 
 
 [Gillner S, **Blankart KE**, Bourgeois FT, Stern AD, Blankart CR. The Challenges of Regulatory Pluralism. Health Policy. 2024 Sep 12;105164.](https://www.sciencedirect.com/science/article/pii/S016885102400174X)
-
 
 [**Blankart KE**, Vandoros S. Explaining why increases in generic use outpace decreases in brand name medicine use in multisource markets and the role of regulation. PLOS ONE. 2024 May 2;19(5):e0301716.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301716) 
 
@@ -74,7 +75,30 @@ author_profile: true
 [**Fischer KE**, Grosse SD, Rogowski WH. The role of health technology assessment in coverage decisions on newborn screening. International Journal of Technology Assessment in Health Care. 2011;27(04):313–21.](https://doi.org/10.1017/S0266462311000468) 
 
 ## Working papers
+
 [**Blankart KE**, Lichtenberg FR. The Effects of Off-label Drug Use on Disability and Medical Expenditure. National Bureau of Economic Research; 2022.](https://www.nber.org/papers/w30440)
+
+[Avdic D, **Blankart KE**. A Hard Look at ‘Soft’ Cost‐control Measures in Healthcare Organizations: Evidence from Preferred Drug Policies in Germany. CINCH working paper series 2021(08). doi: 10.17185/duepublico/74978.](https://duepublico2.uni-due.dereceive/duepublico_mods_00074978), [An earlier version was nomiated as 10% best submissions to Health Care Management Division of the Academy of Management 2021](https://ideas.repec.org/p/ajt/wcinch/74978.html).
+
+
+## Project reports, policy briefs and newspaper articles without peer-review
+
+
+[Ivets M, Blankart K. Switzerland Country Profile: Hospital-Substituting Acute Somatic Care at Home - Regulatory-Incentive Framework. 2026. doi:10.24451/arbor.13601](https://arbor.bfh.ch/entities/publication/ddd2987e-2834-485f-b436-5f4eeca17ccd)
+
+[Ivets M, Bilger J, Blankart K. Finanzierung und Vergütung spitalersetzender akutsomatischer Versorgung im häuslichen Umfeld. 2026 Apr 27;1–40. doi:10.24451/arbor.13604](https://arbor.bfh.ch/entities/publication/dc9c9e01-8deb-4577-8ea1-fe0c7171cfba)
+
+[Ivets M, Bilger J, Blankart K. Finanzierung und Vergütung spitalersetzender akutsomatischer Versorgung in der Schweiz. Lucerne, Switzerland: Swiss Learning Health System; 2026](https://www.slhs.ch/de/policy-briefs-stakeholder-dialoge/unsere-themen/finanzierung-und-vergutung-spitalersetzender-akutsomatischer-versorgung-in-der-schweiz/)
+
+
+[Müller T, Blankart K. Zu viel des Guten im Schweizer Gesundheitswesen – Republik. 2025 Sep 24](https://www.republik.ch/2025/09/24/kein-land-hat-mehr-roentgengeraete)
+
+[Blankart, K., Felder, S., 2022. Arzneimittel: Placebo bei Engpassbekämpfung. Wirtschaftsdienst 2022, 248–248.](https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/4/beitrag/placebo-bei-engpassbekaempfung.html)
+
+[Kurte MS, Blankart K. Ambulant-sensitive Krankenhausfälle in Deutschland – Abgrenzung, Prävalenz und Kosten. Gesundh ökon Qual manag. 2019 May 7;24(06):277–91.](http://www.thieme-connect.de/DOI/DOI?10.1055/a-0890-9600)
+
+Fischer K. Ansätze zur empirischen Analyse von Entscheidungen über die Erstattungsfähigkeit von Gesundheitstechnologien in industrialisierten Ländern. RPG Recht und Politik im Gesundheitswesen. 2013;19(3):67–81. 
+
 
 ## Book chapters
 
@@ -87,10 +111,3 @@ author_profile: true
 [Blankart K. Thema: Strategische Analyse und Prognose – Analyse brancheninterner Strukturen (Fallstudie 11). In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 367–9.](https://doi.org/10.1007/978-3-658-31068-4_40)
 
 
-## Articles in German
-
-[Blankart, K., Felder, S., 2022. Arzneimittel: Placebo bei Engpassbekämpfung. Wirtschaftsdienst 2022, 248–248.](https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/4/beitrag/placebo-bei-engpassbekaempfung.html)
-
-[Kurte MS, Blankart K. Ambulant-sensitive Krankenhausfälle in Deutschland – Abgrenzung, Prävalenz und Kosten. Gesundh ökon Qual manag. 2019 May 7;24(06):277–91.](http://www.thieme-connect.de/DOI/DOI?10.1055/a-0890-9600)
-
-Fischer K. Ansätze zur empirischen Analyse von Entscheidungen über die Erstattungsfähigkeit von Gesundheitstechnologien in industrialisierten Ländern. RPG Recht und Politik im Gesundheitswesen. 2013;19(3):67–81. 
