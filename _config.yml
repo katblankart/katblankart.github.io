@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Prof. Dr. Katharina Blankart, MBR"
   avatar           : "Prof. Dr. Blankart, Katharina.jpg"
-  bio              : "Business Economist, Health & Innovation"
+  bio              : "Health economist, Bern University of Applied Sciences"
   location         : "Bern, Switzerland"
   employer         : #"[Bern University of Applied Sciences](https://www.bfh.ch/health-professions/en/)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0000-0001-9831-1787"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "katblankart"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
