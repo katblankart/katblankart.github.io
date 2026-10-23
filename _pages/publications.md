@@ -8,6 +8,10 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
+[Rantsi M, **Blankart K**, Lauri K, Johanna J, Virva HH. Not in Isolation: How Physician Networks Influence Evidence-Based Prescribing of Psychotropics to Older People with Dementia. Rochester, NY; 2024 26](https://papers.ssrn.com/abstract=4959345) (accepted at Health Economics)
+
+[Panhuysen J, Goetjes E, Shaikh M, Blankart KE. The consequences of medicine shortages on healthcare utilization and care fragmentation. Eur J Health Econ. 2026, online first](https://doi.org/10.1007/s10198-026-01953-0)
+
 [Graf et al., Cost-Effectiveness of Home Treatment Compared to Inpatient Care in Child and Adolescent Psychiatry – Evidence from a Pilot Trial, Swiss Medical Weekly, 2026, in print]
 
 [Brand T, **Blankart K**. Does access to quality accreditation improve health? - Patient-level evidence from German cancer care. Eur J Health Econ. 2026 Apr 1;27(3):591–607. doi:10.1007/s10198-025-01833-z](https://doi.org/10.1007/s10198-025-01833-z)
@@ -101,6 +105,8 @@ Fischer K. Ansätze zur empirischen Analyse von Entscheidungen über die Erstatt
 
 
 ## Book chapters
+
+**Intellectual property rights and value-based pricing** with Paul Peters and Simon Reif, forthcoming in Competing for the Cure:Intellectual Property, Innovation Policy, and Competititiveness in Biopharmaceutical Ecosystems (eds. Jonathan M. Barnett, Bowman Heiden, and Margaret Kyle, Cambridge University Press 2027, invited by the [EIRA Initiative](https://eirainitiative.org/wp-content/uploads/2026/10/Blankart-Peters-Reif_vbp2026.pdf)
 
 [Blankart K. Fallstudie 11: Der strategische Kampf: Wettbewerbsfähigkeit durch die europäische Waren- und Dienstleistungsfreiheit. In: Ritz A, Blankart CR, Jacobs CD, Lienhard A, Radulescu D, Sager F, editors. Praxisfälle Public Management: Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen. Wiesbaden: Springer Fachmedien; 2021. p. 107–18.](https://doi.org/10.1007/978-3-658-31068-4_12)
 
