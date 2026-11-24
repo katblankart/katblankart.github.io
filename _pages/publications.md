@@ -8,7 +8,9 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-[Rantsi M, **Blankart K**, Lauri K, Johanna J, Virva HH. Not in Isolation: How Physician Networks Influence Evidence-Based Prescribing of Psychotropics to Older People with Dementia. Rochester, NY; 2024 26](https://papers.ssrn.com/abstract=4959345) (accepted at Health Economics)
+
+[Rantsi M, Blankart K, Lauri L, Jyrkkä J, Hyttinen-Huotari V. Not in Isolation: The Influence of Patient-Sharing Networks on Psychotropic Prescribing for People With Dementia. Health Economics. 2026](doi:10.1002/hec.70173)
+
 
 [Panhuysen J, Goetjes E, Shaikh M, Blankart KE. The consequences of medicine shortages on healthcare utilization and care fragmentation. Eur J Health Econ. 2026, online first](https://doi.org/10.1007/s10198-026-01953-0)
 
